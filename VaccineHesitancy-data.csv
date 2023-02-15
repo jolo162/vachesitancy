@@ -1,0 +1,790 @@
+Respondent,Age,Gender,Ethnicity,Religion,MaritalStatus,Education,Employment,Income,State,Region,PSeverity,PSusceptibility,PClinicalBarriers,PAccessBarriers,PRegistrationBarriers,PReligionBarriers,PIndBenefits,PComBenefits,SelfEfficacy,TrustVaccineProc,TrustGov,VacHist,Health
+59,49,Male,2,Taoism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,17,18,13,8,3,10,9,11,11,10,2,4
+291,41,Male,2,Taoism,Married,Diploma,Self-Employed,"RM1,000-RM3,999",Penang,North,26,17,16,10,7,3,10,10,11,18,14,2,4
+364,25,Female,2,Taoism,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Selangor,Central,22,15,18,16,4,2,14,13,9,17,17,1,4
+1456,47,Male,2,Taoism,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,23,24,23,16,5,2,14,15,11,13,9,2,4
+1486,21,Male,2,Taoism,Never married,Diploma,Self-Employed,"RM7,000-RM9,999",Selangor,Central,28,13,17,14,11,2,13,14,10,12,6,2,4
+13,46,Male,6,Others,Married,Diploma,Self-Employed,"RM1,000-RM3,999",Kuala Lumpur,Central,25,12,6,6,4,2,13,15,15,16,15,2,5
+175,61,Female,2,Others,Married,Diploma,Domestic homemaker,"RM4,000-RM6,999",Perak,North,13,13,17,16,4,2,15,14,15,19,7,2,4
+473,59,Male,3,Others,Married,Diploma,Employed part time,"RM4,000-RM6,999",Johor,South,27,17,20,12,8,3,10,10,12,16,20,2,5
+355,26,Male,1,None,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,19,16,13,11,11,2,12,13,11,17,14,2,4
+1759,36,Male,2,None,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,26,19,17,16,8,2,9,10,15,12,10,2,4
+1808,35,Male,6,None,Never married,Diploma,Employed full time,"Above RM10,000",Kuala Lumpur,Central,13,13,6,10,8,2,15,15,15,20,25,2,5
+14,19,Male,1,Islam,Married,Diploma,Self-Employed,"RM7,000-RM9,999",Kedah,North,24,22,14,10,6,2,12,15,15,15,22,1,4
+28,20,Male,1,Islam,Never married,Diploma,Self-Employed,"RM1,000-RM3,999",Selangor,Central,26,17,19,12,8,7,10,10,15,16,20,2,4
+38,42,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,6,21,6,5,5,2,15,15,15,20,25,2,5
+57,43,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,23,18,23,17,8,4,12,12,15,14,15,2,5
+66,45,Female,1,Islam,Married,Diploma,Unemployed looking for work,"RM1,000-RM3,999",Negeri Sembilan,South,22,18,16,10,11,5,15,15,12,15,22,2,3
+70,25,Male,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Kedah,North,30,25,16,7,4,3,15,15,15,20,25,2,4
+77,45,Male,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Selangor,Central,24,19,24,13,16,7,11,13,12,15,17,2,3
+79,45,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,19,21,18,9,10,2,15,15,11,19,19,1,4
+94,44,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,20,20,21,13,4,5,12,11,15,12,17,2,5
+106,62,Male,1,Islam,Married,Diploma,Employed part time,"RM1,000-RM3,999",Selangor,Central,30,25,20,14,17,3,12,12,14,16,20,2,4
+115,45,Male,1,Islam,Never married,Diploma,Self-Employed,"RM7,000-RM9,999",Kuala Lumpur,Central,25,19,22,9,6,4,9,14,15,16,22,2,4
+120,29,Male,1,Islam,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,27,24,9,13,5,2,14,14,14,18,24,2,4
+131,23,Female,1,Islam,Never married,Diploma,Self-Employed,"RM1,000-RM3,999",Kelantan,East Coast,30,21,6,16,20,10,15,15,15,18,25,1,5
+139,23,Female,1,Islam,Married,Diploma,Self-Employed,"Less than RM1,000",Johor,South,24,18,17,11,8,4,13,14,15,20,20,2,5
+142,22,Female,3,Islam,Married,Diploma,Student,"Less than RM1,000",Penang,North,27,9,11,9,5,2,15,15,9,20,25,3,5
+144,25,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,28,23,27,18,18,9,13,12,14,17,23,2,2
+155,56,Female,1,Islam,Married,Diploma,Employed full time,"RM7,000-RM9,999",Selangor,Central,25,25,16,10,10,4,12,14,15,18,23,2,3
+165,53,Female,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,19,20,21,19,20,4,11,13,12,16,15,2,4
+171,23,Female,1,Islam,Never married,Diploma,Student,"Less than RM1,000",Penang,North,25,20,19,8,8,2,12,12,12,19,20,2,5
+196,18,Female,1,Islam,Never married,Diploma,Student,"RM7,000-RM9,999",Perlis,North,24,15,7,7,15,2,15,15,10,19,23,2,5
+208,20,Female,1,Islam,Never married,Diploma,Student,"Less than RM1,000",Selangor,Central,24,23,15,15,16,2,14,13,10,16,20,1,4
+215,34,Female,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,29,22,11,9,11,2,15,15,13,18,24,2,4
+230,60,Male,1,Islam,Married,Diploma,Retired,"RM1,000-RM3,999",Selangor,Central,26,18,21,12,4,5,12,13,15,19,20,1,5
+232,37,Female,1,Islam,Married,Diploma,Domestic homemaker,"RM4,000-RM6,999",Johor,South,24,21,23,9,8,2,15,15,15,20,18,2,3
+234,38,Female,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Penang,North,29,20,16,9,10,4,12,13,13,17,19,2,3
+253,48,Female,3,Islam,Married,Diploma,Employed part time,"RM1,000-RM3,999",Penang,North,28,15,18,17,16,5,14,13,14,17,24,2,5
+267,25,Male,1,Islam,Never married,Diploma,Unemployed looking for work,"Less than RM1,000",Johor,South,28,20,16,7,4,2,10,14,12,18,16,2,3
+288,26,Male,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Kedah,North,14,8,30,12,12,10,3,6,9,4,6,2,4
+292,61,Male,1,Islam,Married,Diploma,Retired,"RM4,000-RM6,999",Kedah,North,30,25,10,4,4,2,15,13,15,20,25,2,4
+298,27,Female,1,Islam,Married,Diploma,Self-Employed,"RM1,000-RM3,999",Terengganu,East Coast,16,15,19,12,12,6,9,9,9,11,16,2,4
+330,32,Male,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Pahang,East Coast,29,22,17,18,11,5,12,15,11,14,24,2,4
+359,44,Male,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Selangor,Central,23,24,12,11,9,4,12,11,11,15,16,2,4
+372,38,Male,1,Islam,Never married,Diploma,Self-Employed,"RM1,000-RM3,999",Selangor,Central,22,17,20,13,15,6,7,10,11,12,11,2,5
+376,31,Male,1,Islam,Never married,Diploma,Student,"RM1,000-RM3,999",Kuala Lumpur,Central,24,18,19,14,14,6,12,12,11,16,15,3,4
+383,18,Male,1,Islam,Never married,Diploma,Student,"Less than RM1,000",Terengganu,East Coast,30,19,6,16,4,2,15,15,14,20,25,2,5
+396,39,Female,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,23,15,14,12,2,12,14,9,15,14,1,4
+397,19,Female,1,Islam,Never married,Diploma,Student,"Less than RM1,000",Selangor,Central,19,16,15,12,7,5,12,13,7,15,10,2,4
+415,36,Female,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Malacca,South,26,20,20,7,4,2,15,13,15,19,24,2,5
+422,26,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,30,25,30,17,9,10,14,15,15,20,25,2,4
+429,35,Male,1,Islam,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,18,15,18,12,12,6,9,9,9,12,15,3,3
+445,48,Male,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,30,19,16,16,16,4,12,12,12,14,13,2,3
+454,28,Male,1,Islam,Never married,Diploma,Unemployed looking for work,"Less than RM1,000",Kuala Lumpur,Central,30,19,18,12,15,4,12,13,15,12,21,1,3
+456,38,Male,1,Islam,Never married,Diploma,Self-Employed,"RM4,000-RM6,999",Johor,South,22,18,21,14,12,2,9,8,10,12,15,2,5
+460,19,Female,1,Islam,Never married,Diploma,Student,"RM1,000-RM3,999",Negeri Sembilan,South,24,17,16,13,13,5,12,12,12,15,20,3,4
+466,27,Female,1,Islam,Never married,Diploma,Self-Employed,"Less than RM1,000",Pahang,East Coast,26,23,21,13,7,5,11,15,15,20,25,1,5
+480,18,Female,1,Islam,Never married,Diploma,Student,"Less than RM1,000",Kelantan,East Coast,30,8,20,12,16,3,15,15,12,14,20,2,5
+489,46,Female,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kedah,North,24,25,13,6,4,3,15,15,13,17,24,2,4
+492,42,Female,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,22,15,13,14,11,2,15,14,14,16,20,2,4
+495,27,Male,1,Islam,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,24,17,22,15,12,7,11,9,11,13,17,2,4
+525,32,Male,1,Islam,Never married,Diploma,Employed full time,"RM7,000-RM9,999",Selangor,Central,25,23,14,13,4,4,15,13,15,16,21,2,4
+584,20,Male,1,Islam,Married,Diploma,Employed part time,"RM4,000-RM6,999",Kuala Lumpur,Central,26,13,19,16,12,4,14,13,13,18,23,2,4
+588,45,Male,5,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,27,21,16,17,13,3,14,14,15,15,7,2,5
+595,49,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kedah,North,16,16,16,14,8,2,14,14,13,19,20,2,4
+614,56,Female,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,21,13,10,9,4,13,13,11,18,24,2,4
+657,37,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kedah,North,18,15,14,14,16,4,12,12,12,18,22,2,4
+758,50,Male,1,Islam,Divorced/Permanently separated,Diploma,Self-Employed,"RM4,000-RM6,999",Kedah,North,25,25,20,17,10,4,15,14,10,15,12,2,3
+825,27,Female,1,Islam,Married,Diploma,Employed full time,"RM7,000-RM9,999",Johor,South,28,14,14,20,16,2,14,15,13,20,25,2,5
+827,39,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Perak,North,21,19,16,6,4,2,11,11,15,17,20,2,4
+850,27,Female,1,Islam,Married,Diploma,Self-Employed,"RM4,000-RM6,999",Kelantan,East Coast,20,20,23,12,10,4,12,12,11,16,20,2,4
+873,26,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,25,15,16,15,10,5,13,14,11,15,18,3,5
+983,26,Female,1,Islam,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,26,22,25,19,17,10,14,14,13,20,24,2,5
+1042,29,Male,1,Islam,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,17,9,20,16,7,6,14,15,10,14,20,2,5
+1195,25,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,15,19,17,13,10,2,14,13,12,18,22,2,5
+1358,43,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,30,25,23,13,4,4,15,15,15,20,20,2,3
+1397,26,Female,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,25,15,13,10,11,4,15,13,13,19,22,3,4
+1445,29,Male,1,Islam,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,24,22,13,14,12,2,14,14,13,18,23,2,5
+1549,19,Female,2,Islam,Married,Diploma,Self-Employed,"Above RM10,000",Negeri Sembilan,South,26,19,29,8,12,6,9,7,3,4,20,1,4
+1617,54,Male,1,Islam,Married,Diploma,Unemployed looking for work,"RM4,000-RM6,999",Selangor,Central,19,24,22,17,14,5,8,10,11,11,12,2,3
+1630,21,Male,1,Islam,Never married,Diploma,Self-Employed,"RM4,000-RM6,999",Johor,South,24,18,9,9,13,2,15,14,11,16,24,2,5
+1664,23,Male,1,Islam,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Terengganu,East Coast,23,21,22,15,9,4,12,14,13,16,20,2,5
+1667,20,Female,1,Islam,Never married,Diploma,Employed full time,"Less than RM1,000",Johor,South,22,15,20,10,14,5,12,11,13,16,19,3,5
+1749,22,Male,1,Islam,Married,Diploma,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,18,16,18,12,12,6,9,9,9,12,15,3,3
+1754,30,Female,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Selangor,Central,24,25,11,9,4,2,15,15,15,16,15,1,4
+1800,42,Male,1,Islam,Divorced/Permanently separated,Diploma,Employed full time,"RM7,000-RM9,999",Selangor,Central,16,22,24,16,19,6,12,12,10,16,10,2,4
+1818,32,Male,1,Islam,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,28,23,20,12,4,2,10,13,13,17,19,2,3
+1849,38,Female,1,Islam,Divorced/Permanently separated,Diploma,Employed full time,"RM1,000-RM3,999",Perak,North,22,25,10,10,7,2,15,15,13,18,17,2,4
+1896,52,Male,1,Islam,Married,Diploma,Employed full time,"RM4,000-RM6,999",Penang,North,21,16,20,13,10,5,9,11,11,10,16,2,3
+1901,53,Male,1,Islam,Married,Diploma,Retired,"RM4,000-RM6,999",Kedah,North,11,5,30,12,12,10,3,3,9,4,6,2,5
+1917,39,Female,1,Islam,Married,Diploma,Employed full time,"RM1,000-RM3,999",Selangor,Central,26,25,20,12,17,2,15,15,12,20,25,2,4
+425,19,Male,1,Islam,Never married,Diploma,Unemployed looking for work,"RM1,000-RM3,999",Perak,North,26,16,12,13,8,2,15,15,8,16,22,3,5
+29,24,Male,3,Hinduism,Never married,Diploma,Student,"Less than RM1,000",Pahang,East Coast,20,19,13,7,4,2,12,11,12,16,20,2,4
+147,23,Female,3,Hinduism,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,21,9,15,7,4,2,12,11,15,17,13,1,5
+245,23,Female,3,Hinduism,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Perak,North,26,16,19,12,12,2,9,9,9,14,15,3,4
+308,20,Male,3,Hinduism,Never married,Diploma,Employed part time,"RM1,000-RM3,999",Selangor,Central,24,13,19,7,16,4,15,15,15,20,20,2,5
+309,48,Male,3,Hinduism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,11,9,18,8,12,2,9,9,5,12,5,2,5
+450,45,Female,3,Hinduism,Married,Diploma,Self-Employed,"RM4,000-RM6,999",Kuala Lumpur,Central,29,17,15,14,18,2,13,11,13,19,20,2,5
+786,48,Male,3,Hinduism,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,25,23,23,17,12,2,12,15,10,12,9,2,4
+801,51,Male,3,Hinduism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Sabah,East Malaysia,23,16,9,12,4,2,15,15,11,16,7,2,3
+39,32,Male,6,Christianity,Married,Diploma,Employed full time,"RM1,000-RM3,999",Sarawak,East Malaysia,27,21,19,17,12,6,9,10,7,12,15,1,3
+50,38,Female,2,Christianity,Married,Diploma,Employed full time,"RM1,000-RM3,999",Sarawak,East Malaysia,24,18,19,12,14,2,8,9,8,12,12,2,4
+116,20,Female,2,Christianity,Never married,Diploma,Student,"RM1,000-RM3,999",Negeri Sembilan,South,23,18,21,12,9,4,8,8,10,13,16,2,3
+118,34,Male,2,Christianity,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,14,9,11,8,6,2,15,15,12,17,18,2,4
+160,54,Female,2,Christianity,Never married,Diploma,Self-Employed,"RM1,000-RM3,999",Perak,North,21,10,26,12,12,2,5,10,13,12,8,2,4
+214,43,Female,2,Christianity,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,22,11,22,8,4,2,10,11,15,16,13,2,5
+353,19,Male,2,Christianity,Never married,Diploma,Student,"Less than RM1,000",Selangor,Central,13,14,19,10,9,4,11,11,10,12,9,2,5
+438,60,Female,2,Christianity,Married,Diploma,Employed part time,"RM1,000-RM3,999",Johor,South,23,16,25,14,14,6,7,9,7,6,5,2,4
+455,36,Male,2,Christianity,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Selangor,Central,15,15,18,16,9,4,8,8,9,12,15,2,3
+470,33,Male,2,Christianity,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Johor,South,21,17,19,12,12,6,9,9,10,8,10,2,3
+496,36,Male,2,Christianity,Married,Diploma,Employed full time,"RM7,000-RM9,999",Selangor,Central,30,19,21,11,6,2,9,12,12,12,10,2,4
+542,22,Female,2,Christianity,Never married,Diploma,Self-Employed,"RM7,000-RM9,999",Sabah,East Malaysia,30,25,23,17,11,4,12,12,13,12,14,2,4
+613,20,Female,5,Christianity,Never married,Diploma,Student,"RM4,000-RM6,999",Sarawak,East Malaysia,21,17,12,10,6,3,8,13,8,13,14,2,5
+932,44,Male,3,Christianity,Married,Diploma,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,19,19,17,13,7,2,11,12,6,10,6,2,4
+1461,48,Female,2,Christianity,Married,Diploma,Employed part time,"RM4,000-RM6,999",Johor,South,17,19,11,18,4,2,13,12,12,15,16,2,3
+1494,23,Male,2,Christianity,Never married,Diploma,Employed full time,"RM7,000-RM9,999",Selangor,Central,13,9,21,8,4,2,15,15,15,20,20,2,5
+1564,47,Male,2,Christianity,Married,Diploma,Employed full time,"RM7,000-RM9,999",Selangor,Central,19,19,17,16,9,2,6,11,9,12,13,2,4
+1662,54,Female,2,Christianity,Never married,Diploma,Employed part time,"RM1,000-RM3,999",Penang,North,25,20,8,15,8,2,15,15,10,15,15,1,2
+1729,39,Male,2,Christianity,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,26,21,16,15,8,2,11,14,13,15,11,1,3
+281,20,Male,2,Christianity,Never married,Diploma,Student,"Less than RM1,000",Kuala Lumpur,Central,28,17,20,12,12,6,10,11,9,10,14,2,3
+377,31,Male,2,Christianity,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,18,16,17,11,11,2,9,8,11,12,15,2,5
+12,29,Female,4,Catholicism,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Sabah,East Malaysia,20,21,18,12,12,3,12,11,11,14,18,2,4
+20,39,Female,4,Catholicism,Married,Diploma,Employed full time,"RM1,000-RM3,999",Sabah,East Malaysia,22,17,16,14,10,2,14,15,13,17,16,1,3
+156,32,Male,2,Catholicism,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Sabah,East Malaysia,25,14,11,18,7,2,12,9,10,15,11,2,4
+162,46,Male,2,Catholicism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Johor,South,29,20,21,20,13,3,10,12,12,16,15,2,3
+169,31,Female,5,Catholicism,Never married,Diploma,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,26,13,19,18,14,6,15,14,15,20,17,2,5
+1599,46,Female,2,Catholicism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,28,22,7,17,4,2,14,12,15,20,19,2,4
+1619,49,Female,6,Catholicism,Married,Diploma,Domestic homemaker,"Above RM10,000",Selangor,Central,28,24,19,19,20,4,13,15,7,16,8,2,3
+1883,21,Female,3,Catholicism,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,26,22,11,16,17,2,15,15,12,12,7,2,3
+22,49,Male,2,Buddhism,Married,Diploma,Self-Employed,"RM1,000-RM3,999",Selangor,Central,28,17,22,12,13,6,11,13,12,15,14,2,5
+54,18,Female,2,Buddhism,Never married,Diploma,Student,"Less than RM1,000",Penang,North,21,15,17,14,12,2,12,12,13,18,10,2,4
+60,35,Female,2,Buddhism,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,19,20,17,8,6,2,15,15,15,20,9,2,4
+67,34,Female,2,Buddhism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,26,21,25,17,16,6,13,10,12,18,21,2,4
+68,41,Male,2,Buddhism,Married,Diploma,Employed part time,"RM1,000-RM3,999",Kuala Lumpur,Central,25,15,19,12,4,2,13,14,9,12,16,2,4
+97,21,Male,2,Buddhism,Never married,Diploma,Student,"Less than RM1,000",Kuala Lumpur,Central,28,15,20,12,12,5,11,11,9,12,15,2,4
+151,56,Female,2,Buddhism,Married,Diploma,Domestic homemaker,"RM1,000-RM3,999",Johor,South,28,11,21,10,4,4,12,13,11,14,17,2,4
+159,30,Female,2,Buddhism,Never married,Diploma,Employed part time,"Less than RM1,000",Selangor,Central,20,20,17,15,13,4,9,13,11,16,16,2,3
+167,34,Female,2,Buddhism,Never married,Diploma,Self-Employed,"RM1,000-RM3,999",Kuala Lumpur,Central,26,17,16,8,7,3,14,14,15,17,15,2,3
+223,40,Male,2,Buddhism,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,14,18,12,14,6,9,10,9,16,17,2,4
+303,20,Male,2,Buddhism,Never married,Diploma,Student,"Less than RM1,000",Selangor,Central,18,14,20,13,11,7,11,10,9,13,15,3,4
+304,33,Female,2,Buddhism,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Negeri Sembilan,South,25,17,20,13,11,2,12,12,6,14,15,2,4
+360,37,Male,2,Buddhism,Married,Diploma,Self-Employed,"RM4,000-RM6,999",Selangor,Central,29,21,24,17,15,9,12,11,9,20,19,1,4
+362,39,Male,2,Buddhism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Penang,North,24,18,19,13,8,3,12,14,13,17,20,2,4
+367,18,Male,2,Buddhism,Never married,Diploma,Student,"Less than RM1,000",Selangor,Central,19,16,21,12,11,4,7,9,10,13,18,3,3
+371,43,Male,2,Buddhism,Never married,Diploma,Self-Employed,"RM1,000-RM3,999",Selangor,Central,30,25,27,14,4,2,15,15,13,17,5,2,3
+395,19,Female,2,Buddhism,Never married,Diploma,Student,"RM4,000-RM6,999",Negeri Sembilan,South,22,14,20,7,9,2,8,14,14,16,14,2,4
+409,20,Female,2,Buddhism,Never married,Diploma,Student,"Less than RM1,000",Johor,South,26,10,9,6,4,2,13,13,14,18,9,1,5
+443,37,Female,2,Buddhism,Never married,Diploma,Employed full time,"Above RM10,000",Perak,North,24,15,23,13,10,3,12,12,10,12,11,2,3
+457,37,Male,2,Buddhism,Married,Diploma,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,29,21,21,18,9,2,12,13,15,16,15,2,4
+468,33,Female,2,Buddhism,Never married,Diploma,Employed full time,"RM1,000-RM3,999",Sabah,East Malaysia,27,21,21,14,8,2,5,6,12,18,9,2,4
+512,35,Female,2,Buddhism,Married,Diploma,Self-Employed,"RM1,000-RM3,999",Selangor,Central,25,24,26,20,20,4,11,11,8,13,13,2,4
+553,31,Male,2,Buddhism,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,24,16,15,12,14,2,13,14,13,16,15,2,4
+576,39,Female,2,Buddhism,Never married,Diploma,Self-Employed,"RM4,000-RM6,999",Penang,North,24,14,19,16,11,5,11,11,11,16,20,2,4
+741,26,Female,2,Buddhism,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Penang,North,19,25,20,14,4,2,13,15,15,16,10,2,3
+1382,41,Female,2,Buddhism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,22,18,21,14,15,7,12,9,10,14,17,2,4
+1407,38,Male,2,Buddhism,Married,Diploma,Self-Employed,"RM7,000-RM9,999",Penang,North,23,19,28,10,8,2,8,11,11,14,9,2,5
+1418,49,Male,2,Buddhism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,19,17,13,17,6,2,11,12,9,17,13,2,5
+1522,36,Male,2,Buddhism,Married,Diploma,Self-Employed,"RM7,000-RM9,999",Selangor,Central,28,18,20,4,4,2,15,11,15,20,17,2,4
+1535,49,Female,2,Buddhism,Married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,29,18,15,20,8,2,12,15,9,16,6,2,4
+1536,49,Male,2,Buddhism,Married,Diploma,Employed full time,"RM7,000-RM9,999",Penang,North,13,19,17,12,7,3,5,7,10,12,17,2,4
+1546,42,Male,2,Buddhism,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Selangor,Central,18,17,19,15,8,4,11,12,11,16,15,1,4
+1634,24,Male,2,Buddhism,Married,Diploma,Self-Employed,"RM4,000-RM6,999",Kedah,North,21,22,21,15,14,7,11,12,11,14,17,2,4
+1659,48,Male,2,Buddhism,Married,Diploma,Employed full time,"RM1,000-RM3,999",Malacca,South,21,18,12,13,10,3,14,15,12,16,14,2,4
+1692,23,Female,2,Buddhism,Never married,Diploma,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,25,14,21,13,12,4,9,12,11,12,12,2,5
+1693,21,Male,2,Buddhism,Never married,Diploma,Student,"RM4,000-RM6,999",Perak,North,23,16,20,11,16,2,14,12,7,5,13,2,3
+1836,23,Male,2,Buddhism,Never married,Diploma,Student,"Less than RM1,000",Sarawak,East Malaysia,22,15,17,10,20,7,14,14,10,14,16,3,4
+1840,19,Female,2,Buddhism,Never married,Diploma,Student,"Less than RM1,000",Negeri Sembilan,South,30,20,21,11,11,4,11,12,13,17,17,2,3
+1854,62,Male,2,Buddhism,Married,Diploma,Retired,"RM1,000-RM3,999",Sarawak,East Malaysia,27,22,14,7,11,6,8,14,14,19,19,1,5
+6,20,Male,2,Buddhism,Never married,Diploma,Student,"Less than RM1,000",Johor,South,18,12,13,14,4,2,15,15,9,18,17,2,4
+311,27,Female,1,Islam,Divorced/Permanently separated,None,Unemployed not looking for work,"Less than RM1,000",Perak,North,16,8,9,8,10,2,6,9,6,6,10,2,3
+76,32,Female,1,Islam,Married,None,Domestic homemaker,"Less than RM1,000",Johor,South,23,20,22,11,9,4,10,10,9,16,14,3,2
+136,31,Male,6,Buddhism,Never married,None,Student,"Less than RM1,000",Kedah,North,8,15,15,5,5,2,8,15,13,16,21,2,4
+265,26,Female,2,Buddhism,Married,None,Student,"RM1,000-RM3,999",Sarawak,East Malaysia,29,23,27,20,17,9,13,12,14,17,22,3,3
+190,39,Male,1,Islam,Never married,Primary,Self-Employed,"RM1,000-RM3,999",Perak,North,24,20,15,11,8,4,10,12,12,16,20,2,3
+485,21,Male,3,Christianity,Never married,Primary,Unemployed looking for work,"Less than RM1,000",Kuala Lumpur,Central,23,15,21,12,14,6,8,10,15,12,14,2,5
+99,54,Male,2,Buddhism,Married,Primary,Retired,"Less than RM1,000",Johor,South,30,18,21,12,8,2,11,14,12,15,14,2,4
+484,30,Female,2,Buddhism,Married,Primary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,24,15,20,12,7,2,11,8,12,17,14,2,3
+16,41,Male,2,Taoism,Married,Secondary,Unemployed looking for work,"RM1,000-RM3,999",Perak,North,27,19,21,19,8,2,6,7,11,5,6,2,4
+365,43,Male,2,Taoism,Never married,Secondary,Employed full time,"RM4,000-RM6,999",Johor,South,23,18,21,12,11,2,9,8,11,12,10,2,4
+1663,50,Female,2,Taoism,Married,Secondary,Self-Employed,"Less than RM1,000",Kedah,North,24,19,11,20,9,2,9,9,12,12,17,2,5
+1777,34,Male,2,None,Married,Secondary,Employed full time,"RM7,000-RM9,999",Selangor,Central,26,20,12,10,12,2,13,15,9,15,14,2,4
+11,18,Female,1,Islam,Never married,Secondary,Unemployed looking for work,"RM1,000-RM3,999",Johor,South,23,16,22,18,17,6,10,12,6,10,17,2,3
+17,29,Female,1,Islam,Married,Secondary,Self-Employed,"RM1,000-RM3,999",Perak,North,27,21,25,16,6,3,8,7,12,14,20,2,4
+18,29,Female,1,Islam,Divorced/Permanently separated,Secondary,Self-Employed,"RM1,000-RM3,999",Johor,South,29,25,13,5,10,2,14,11,15,20,25,2,5
+23,46,Male,1,Islam,Married,Secondary,Employed full time,"RM1,000-RM3,999",Malacca,South,28,21,19,7,7,2,9,11,12,16,18,2,3
+27,33,Female,1,Islam,Divorced/Permanently separated,Secondary,Self-Employed,"Less than RM1,000",Perak,North,25,21,22,20,8,4,10,11,10,12,19,2,4
+30,21,Male,1,Islam,Never married,Secondary,Self-Employed,"RM1,000-RM3,999",Kelantan,East Coast,29,21,6,14,18,6,13,13,12,18,16,2,5
+37,32,Female,1,Islam,Never married,Secondary,Unemployed looking for work,"Less than RM1,000",Terengganu,East Coast,22,12,17,10,9,4,12,12,11,15,20,2,5
+46,48,Male,1,Islam,Married,Secondary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,24,25,12,10,8,4,12,12,15,17,18,2,5
+51,38,Female,1,Islam,Married,Secondary,Employed full time,"RM1,000-RM3,999",Terengganu,East Coast,25,19,19,9,9,6,11,10,14,16,25,2,5
+63,62,Male,1,Islam,Married,Secondary,Retired,"RM4,000-RM6,999",Kuala Lumpur,Central,13,14,8,5,6,2,15,15,15,20,15,2,4
+73,22,Male,1,Islam,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Sabah,East Malaysia,23,19,22,15,15,8,10,11,12,14,17,1,4
+80,22,Female,1,Islam,Never married,Secondary,Unemployed not looking for work,"Less than RM1,000",Kedah,North,20,18,17,12,12,4,12,12,11,14,15,2,3
+86,45,Female,1,Islam,Married,Secondary,Employed full time,"RM4,000-RM6,999",Selangor,Central,25,19,6,8,6,2,15,15,14,19,21,2,3
+90,59,Female,1,Islam,Married,Secondary,Domestic homemaker,"RM1,000-RM3,999",Kelantan,East Coast,27,21,12,8,4,2,14,13,15,20,25,2,5
+98,22,Male,1,Islam,Never married,Secondary,Employed full time,"RM4,000-RM6,999",Johor,South,26,12,20,13,16,5,11,9,10,16,19,1,4
+125,21,Female,1,Islam,Never married,Secondary,Self-Employed,"Less than RM1,000",Malacca,South,26,18,20,13,11,2,12,12,10,13,19,2,5
+133,58,Male,1,Islam,Married,Secondary,Employed full time,"RM1,000-RM3,999",Johor,South,24,20,25,11,4,2,15,15,15,20,20,2,4
+137,34,Female,1,Islam,Never married,Secondary,Unemployed looking for work,"Less than RM1,000",Kuala Lumpur,Central,20,16,19,13,12,3,12,12,10,13,16,3,4
+164,56,Female,1,Islam,Never married,Secondary,Self-Employed,"Above RM10,000",Selangor,Central,22,14,19,14,17,4,14,14,9,12,11,2,4
+180,27,Male,1,Islam,Never married,Secondary,Unemployed not looking for work,"Less than RM1,000",Malacca,South,10,5,30,18,20,10,3,3,10,4,5,2,5
+191,72,Male,1,Islam,Married,Secondary,Retired,"RM4,000-RM6,999",Selangor,Central,20,14,17,10,9,4,11,12,12,13,15,2,4
+194,34,Male,1,Islam,Never married,Secondary,Self-Employed,"Less than RM1,000",Kelantan,East Coast,20,7,6,6,8,6,15,15,15,20,20,2,5
+200,38,Female,1,Islam,Married,Secondary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,21,22,10,8,4,2,12,14,6,20,25,2,4
+206,39,Male,1,Islam,Married,Secondary,Employed full time,"RM1,000-RM3,999",Johor,South,24,20,19,8,7,5,12,12,11,16,19,2,5
+216,43,Female,1,Islam,Married,Secondary,Domestic homemaker,"RM1,000-RM3,999",Penang,North,14,24,20,17,16,9,12,12,13,16,25,2,5
+220,45,Male,1,Islam,Married,Secondary,Self-Employed,"RM1,000-RM3,999",Johor,South,29,20,12,9,8,2,15,15,12,16,20,2,4
+224,57,Female,4,Islam,Married,Secondary,Domestic homemaker,"RM1,000-RM3,999",Sabah,East Malaysia,19,12,12,7,4,2,15,15,14,16,23,2,5
+233,32,Male,1,Islam,Married,Secondary,Employed full time,"RM1,000-RM3,999",Negeri Sembilan,South,24,18,12,16,16,4,12,13,7,16,20,2,4
+236,28,Female,1,Islam,Married,Secondary,Unemployed not looking for work,"Less than RM1,000",Pahang,East Coast,27,23,18,10,12,5,12,12,12,16,19,1,4
+237,22,Female,4,Islam,Never married,Secondary,Employed part time,"Less than RM1,000",Sabah,East Malaysia,21,18,17,13,4,3,7,10,12,16,20,2,5
+244,20,Male,1,Islam,Never married,Secondary,Student,"Less than RM1,000",Selangor,Central,26,12,7,18,8,2,14,15,12,20,25,2,5
+246,57,Female,1,Islam,Divorced/Permanently separated,Secondary,Retired,"Less than RM1,000",Kuala Lumpur,Central,19,13,18,11,20,4,13,13,10,12,15,2,5
+262,27,Male,1,Islam,Never married,Secondary,Student,"RM4,000-RM6,999",Johor,South,30,11,30,20,14,2,14,7,14,17,21,2,4
+277,30,Male,1,Islam,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Selangor,Central,20,20,18,16,16,6,10,12,10,14,23,2,5
+278,24,Male,1,Islam,Never married,Secondary,Unemployed looking for work,"Less than RM1,000",Perak,North,19,19,19,14,10,5,12,10,10,13,11,2,3
+287,28,Female,1,Islam,Married,Secondary,Self-Employed,"RM1,000-RM3,999",Johor,South,26,23,18,16,14,6,15,15,13,19,25,2,5
+297,44,Male,1,Islam,Married,Secondary,Employed full time,"RM4,000-RM6,999",Perak,North,27,19,14,13,8,4,12,12,15,18,20,2,5
+314,29,Male,1,Islam,Married,Secondary,Self-Employed,"RM1,000-RM3,999",Terengganu,East Coast,26,15,19,18,16,4,8,8,9,12,19,2,3
+316,20,Male,1,Islam,Never married,Secondary,Student,"Less than RM1,000",Pahang,East Coast,26,15,6,8,10,2,15,15,9,20,25,2,5
+321,18,Male,1,Islam,Never married,Secondary,Student,"Less than RM1,000",Sarawak,East Malaysia,26,15,13,15,4,2,15,15,15,20,20,2,5
+326,34,Female,1,Islam,Married,Secondary,Domestic homemaker,"RM4,000-RM6,999",Malacca,South,29,19,18,9,7,5,12,10,12,16,20,2,5
+328,39,Male,1,Islam,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Johor,South,28,25,18,13,20,6,15,15,13,10,13,2,5
+338,24,Male,1,Islam,Never married,Secondary,Unemployed looking for work,"Less than RM1,000",Kelantan,East Coast,27,19,19,10,9,7,10,13,5,11,18,2,3
+348,49,Female,1,Islam,Divorced/Permanently separated,Secondary,Employed full time,"RM1,000-RM3,999",Selangor,Central,27,19,25,16,20,5,13,13,12,12,21,2,4
+351,30,Male,1,Islam,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Johor,South,22,15,24,15,14,7,10,11,8,9,13,2,4
+370,35,Female,1,Islam,Married,Secondary,Domestic homemaker,"RM1,000-RM3,999",Johor,South,29,20,15,11,8,2,12,12,12,16,20,2,4
+373,36,Female,1,Islam,Married,Secondary,Employed part time,"RM1,000-RM3,999",Terengganu,East Coast,25,16,12,11,9,4,10,7,15,16,20,2,3
+379,32,Female,1,Islam,Married,Secondary,Employed full time,"RM1,000-RM3,999",Johor,South,30,22,16,14,12,2,13,14,11,16,20,1,4
+388,18,Female,1,Islam,Never married,Secondary,Student,"RM1,000-RM3,999",Penang,North,25,20,16,8,7,2,15,15,14,18,20,1,4
+399,38,Female,1,Islam,Married,Secondary,Domestic homemaker,"Less than RM1,000",Selangor,Central,26,21,18,13,9,2,11,12,10,18,23,2,5
+411,40,Female,1,Islam,Married,Secondary,Employed full time,"RM1,000-RM3,999",Kedah,North,22,24,20,11,9,4,15,15,15,20,18,2,5
+417,31,Male,1,Islam,Never married,Secondary,Self-Employed,"RM1,000-RM3,999",Kelantan,East Coast,30,25,30,20,20,10,15,15,15,20,25,1,5
+418,59,Female,1,Islam,Married,Secondary,Self-Employed,"RM1,000-RM3,999",Johor,South,25,17,13,11,6,2,13,13,12,20,20,2,4
+420,31,Male,1,Islam,Married,Secondary,Self-Employed,"Less than RM1,000",Sabah,East Malaysia,17,5,20,19,18,10,12,7,10,18,22,2,5
+423,25,Male,1,Islam,Married,Secondary,Domestic homemaker,"RM4,000-RM6,999",Selangor,Central,23,20,24,17,15,7,9,14,12,17,17,1,4
+432,30,Male,1,Islam,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Kedah,North,29,25,18,16,19,8,15,14,7,20,25,2,5
+434,28,Female,1,Islam,Married,Secondary,Domestic homemaker,"RM1,000-RM3,999",Malacca,South,30,16,18,10,11,4,10,10,15,20,20,2,5
+437,18,Male,1,Islam,Never married,Secondary,Student,"Less than RM1,000",Terengganu,East Coast,23,20,10,4,4,2,12,12,15,20,25,2,5
+453,39,Female,1,Islam,Married,Secondary,Domestic homemaker,"RM1,000-RM3,999",Malacca,South,24,24,9,9,4,3,15,15,12,19,25,2,5
+488,21,Male,1,Islam,Never married,Secondary,Student,"Less than RM1,000",Selangor,Central,22,25,6,11,6,2,15,15,11,19,24,1,5
+493,40,Male,1,Islam,Married,Secondary,Self-Employed,"Less than RM1,000",Kelantan,East Coast,18,15,18,12,12,6,9,9,9,12,15,2,3
+498,18,Male,1,Islam,Never married,Secondary,Student,"Less than RM1,000",Kedah,North,30,25,19,11,6,2,14,15,15,20,23,2,5
+503,31,Female,1,Islam,Never married,Secondary,Self-Employed,"Less than RM1,000",Kedah,North,28,21,21,16,12,5,11,11,12,11,15,2,3
+510,37,Male,1,Islam,Married,Secondary,Employed full time,"RM1,000-RM3,999",Perak,North,22,25,8,8,6,2,15,15,15,16,20,2,3
+514,49,Female,1,Islam,Married,Secondary,Employed full time,"RM1,000-RM3,999",Malacca,South,20,17,18,18,13,5,12,12,12,16,20,2,4
+524,35,Male,1,Islam,Never married,Secondary,Self-Employed,"Less than RM1,000",Kelantan,East Coast,22,18,17,11,8,6,11,12,15,16,20,2,5
+526,22,Male,1,Islam,Never married,Secondary,Self-Employed,"Less than RM1,000",Johor,South,27,16,24,16,20,10,15,15,15,20,25,1,4
+573,33,Female,1,Islam,Married,Secondary,Domestic homemaker,"RM4,000-RM6,999",Kedah,North,28,21,12,12,9,2,11,11,12,16,20,2,3
+603,22,Male,1,Islam,Never married,Secondary,Student,"Above RM10,000",Kedah,North,23,17,8,6,4,2,15,13,15,20,25,2,4
+924,52,Female,1,Islam,Married,Secondary,Domestic homemaker,"RM4,000-RM6,999",Johor,South,26,25,9,9,4,2,15,15,15,20,25,2,4
+988,31,Male,1,Islam,Married,Secondary,Employed full time,"RM4,000-RM6,999",Penang,North,23,13,23,13,12,5,9,9,9,12,15,3,3
+1037,42,Female,1,Islam,Married,Secondary,Domestic homemaker,"RM4,000-RM6,999",Penang,North,18,18,20,14,8,4,12,10,7,20,20,2,5
+1403,26,Female,1,Islam,Married,Secondary,Employed full time,"RM4,000-RM6,999",Pahang,East Coast,30,25,20,12,10,2,12,12,15,20,25,3,5
+1405,45,Male,1,Islam,Married,Secondary,Employed full time,"RM4,000-RM6,999",Selangor,Central,20,17,13,9,7,3,14,15,15,17,23,2,5
+1822,21,Male,1,Islam,Never married,Secondary,Employed part time,"RM1,000-RM3,999",Pahang,East Coast,29,20,24,19,14,5,15,15,6,13,17,2,5
+1837,20,Male,1,Islam,Never married,Secondary,Student,"Less than RM1,000",Johor,South,23,20,14,18,13,3,14,15,15,15,19,1,5
+1842,22,Male,1,Islam,Never married,Secondary,Unemployed looking for work,"Less than RM1,000",Kedah,North,25,22,12,10,15,7,10,11,13,16,23,2,5
+1859,50,Female,5,Islam,Divorced/Permanently separated,Secondary,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,21,19,11,9,8,4,12,12,12,18,20,2,5
+1871,47,Female,1,Islam,Married,Secondary,Self-Employed,"RM1,000-RM3,999",Negeri Sembilan,South,28,22,15,9,7,2,15,15,15,16,23,2,4
+1894,49,Female,6,Islam,Married,Secondary,Domestic homemaker,"RM4,000-RM6,999",Penang,North,20,12,18,12,11,6,9,11,9,12,15,2,3
+1895,57,Male,1,Islam,Married,Secondary,Retired,"RM4,000-RM6,999",Malacca,South,14,13,18,12,12,6,3,7,11,6,10,2,5
+1921,28,Male,1,Islam,Married,Secondary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,21,25,16,20,4,2,13,14,11,12,10,2,4
+34,21,Male,1,Islam,Never married,Secondary,Self-Employed,"Less than RM1,000",Selangor,Central,16,19,16,10,12,5,10,9,11,13,20,2,4
+102,18,Female,4,Islam,Never married,Secondary,Student,"RM1,000-RM3,999",Sabah,East Malaysia,26,21,27,19,17,10,12,14,13,17,22,2,4
+217,25,Male,1,Islam,Never married,Secondary,Unemployed looking for work,"RM1,000-RM3,999",Johor,South,27,22,21,10,10,3,11,13,11,16,16,2,4
+743,21,Female,1,Islam,Married,Secondary,Self-Employed,"RM4,000-RM6,999",Kelantan,East Coast,21,18,23,12,15,4,10,7,6,16,10,2,4
+93,46,Male,3,Hinduism,Married,Secondary,Employed full time,"RM1,000-RM3,999",Selangor,Central,28,21,18,14,18,2,15,15,15,19,21,2,4
+101,20,Male,3,Hinduism,Never married,Secondary,Unemployed looking for work,"RM1,000-RM3,999",Selangor,Central,25,19,20,12,11,6,9,9,9,12,12,2,5
+186,63,Female,3,Hinduism,Married,Secondary,Self-Employed,"Less than RM1,000",Penang,North,23,19,20,12,14,2,11,13,9,16,18,2,3
+289,31,Male,3,Hinduism,Married,Secondary,Employed full time,"RM1,000-RM3,999",Negeri Sembilan,South,23,21,15,15,7,2,12,13,8,16,18,1,4
+320,39,Female,3,Hinduism,Married,Secondary,Unemployed looking for work,"Less than RM1,000",Kuala Lumpur,Central,28,11,20,13,16,2,9,7,12,12,15,2,5
+1587,67,Female,3,Hinduism,Married,Secondary,Domestic homemaker,"RM4,000-RM6,999",Selangor,Central,20,13,17,5,8,2,15,15,12,16,19,2,4
+1831,19,Male,3,Hinduism,Never married,Secondary,Student,"Less than RM1,000",Negeri Sembilan,South,29,15,23,10,13,4,11,13,11,18,20,2,5
+4,27,Male,4,Christianity,Married,Secondary,Self-Employed,"Less than RM1,000",Sabah,East Malaysia,20,13,17,6,4,2,15,11,15,20,25,2,4
+48,34,Female,2,Christianity,Married,Secondary,Domestic homemaker,"RM4,000-RM6,999",Johor,South,24,19,18,13,9,2,11,10,7,12,11,3,3
+62,33,Female,2,Christianity,Married,Secondary,Employed full time,"RM1,000-RM3,999",Sarawak,East Malaysia,23,20,24,15,17,8,14,14,13,17,17,2,4
+128,56,Male,2,Christianity,Married,Secondary,Retired,"RM1,000-RM3,999",Sarawak,East Malaysia,21,15,18,9,11,4,9,9,10,14,14,2,3
+173,36,Male,1,Christianity,Married,Secondary,Self-Employed,"Less than RM1,000",Pahang,East Coast,26,16,24,16,16,8,7,9,7,11,20,2,4
+419,64,Male,2,Christianity,Married,Secondary,Self-Employed,"RM4,000-RM6,999",Johor,South,28,25,7,5,5,2,15,14,14,20,19,1,4
+1499,42,Male,2,Christianity,Never married,Secondary,Employed full time,"RM4,000-RM6,999",Johor,South,28,23,19,14,8,3,12,13,11,12,13,2,3
+1511,54,Male,2,Christianity,Never married,Secondary,Employed full time,"RM4,000-RM6,999",Selangor,Central,29,24,16,18,8,2,7,11,10,17,10,2,5
+1765,31,Female,2,Christianity,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,27,23,24,17,16,2,11,12,12,12,6,2,3
+1816,35,Female,4,Christianity,Married,Secondary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,21,24,21,15,14,5,13,15,10,12,12,2,3
+431,18,Female,4,Christianity,Never married,Secondary,Student,"RM1,000-RM3,999",Sabah,East Malaysia,23,20,22,17,17,2,9,10,10,12,17,2,5
+42,49,Female,4,Catholicism,Married,Secondary,Employed full time,"RM1,000-RM3,999",Sabah,East Malaysia,22,17,12,10,7,3,10,12,10,16,15,2,3
+1589,70,Male,2,Catholicism,Married,Secondary,Retired,"Above RM10,000",Selangor,Central,27,17,19,12,9,3,12,13,11,14,15,2,3
+1669,50,Female,2,Catholicism,Never married,Secondary,Employed full time,"RM4,000-RM6,999",Sabah,East Malaysia,17,22,18,11,6,2,11,14,14,20,15,2,3
+1860,51,Female,4,Catholicism,Married,Secondary,Domestic homemaker,"Less than RM1,000",Sabah,East Malaysia,24,23,16,19,16,4,14,15,12,16,20,2,4
+24,19,Female,2,Buddhism,Never married,Secondary,Unemployed not looking for work,"Less than RM1,000",Pahang,East Coast,26,19,22,12,12,4,12,12,12,16,16,2,4
+33,20,Male,2,Buddhism,Never married,Secondary,Student,"Less than RM1,000",Perak,North,29,23,19,14,7,2,15,15,15,16,12,2,5
+45,43,Male,2,Buddhism,Never married,Secondary,Unemployed looking for work,"RM1,000-RM3,999",Kuala Lumpur,Central,18,15,18,12,12,6,9,9,9,12,15,2,3
+55,39,Female,2,Buddhism,Married,Secondary,Domestic homemaker,"RM1,000-RM3,999",Penang,North,28,19,18,12,8,2,9,9,11,16,16,2,4
+64,30,Female,2,Buddhism,Married,Secondary,Domestic homemaker,"RM1,000-RM3,999",Kedah,North,24,15,19,14,10,2,12,11,11,14,15,2,4
+83,31,Male,2,Buddhism,Never married,Secondary,Self-Employed,"RM1,000-RM3,999",Pahang,East Coast,25,17,18,15,11,2,12,11,9,12,7,2,3
+103,43,Male,2,Buddhism,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Terengganu,East Coast,26,17,17,12,11,5,11,12,11,20,21,2,4
+132,57,Male,2,Buddhism,Never married,Secondary,Disabled,"RM1,000-RM3,999",Sarawak,East Malaysia,26,17,13,12,8,2,14,15,13,20,20,2,4
+166,33,Female,2,Buddhism,Never married,Secondary,Employed full time,"RM4,000-RM6,999",Malacca,South,26,20,23,20,20,3,9,11,8,10,7,1,4
+174,39,Female,2,Buddhism,Married,Secondary,Employed full time,"RM1,000-RM3,999",Selangor,Central,26,15,12,10,10,4,13,11,10,16,15,2,4
+218,37,Female,2,Buddhism,Married,Secondary,Employed full time,"RM1,000-RM3,999",Penang,North,9,10,18,12,12,6,9,9,9,12,15,3,3
+219,21,Female,2,Buddhism,Never married,Secondary,Student,"RM4,000-RM6,999",Kuala Lumpur,Central,21,16,20,13,6,2,15,14,12,17,6,2,4
+271,47,Male,3,Buddhism,Married,Secondary,Employed full time,"RM4,000-RM6,999",Johor,South,26,18,15,16,11,2,15,14,13,16,12,2,4
+293,28,Female,2,Buddhism,Divorced/Permanently separated,Secondary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,30,25,30,20,20,10,15,15,15,20,25,2,3
+294,39,Male,2,Buddhism,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Kedah,North,30,25,18,20,8,2,15,15,15,20,25,2,3
+306,62,Female,2,Buddhism,Never married,Secondary,Retired,"RM1,000-RM3,999",Sarawak,East Malaysia,29,20,15,7,7,2,9,12,11,16,19,1,3
+329,23,Male,2,Buddhism,Never married,Secondary,Self-Employed,"RM1,000-RM3,999",Kuala Lumpur,Central,20,17,25,12,8,4,9,9,10,12,18,2,4
+336,45,Female,2,Buddhism,Married,Secondary,Unemployed looking for work,"RM1,000-RM3,999",Penang,North,6,5,7,4,10,6,8,7,9,12,16,2,4
+343,40,Male,2,Buddhism,Married,Secondary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,30,20,6,8,4,2,14,15,12,20,8,2,3
+391,19,Female,2,Buddhism,Never married,Secondary,Student,"RM7,000-RM9,999",Selangor,Central,27,22,15,8,6,2,14,15,12,19,25,2,4
+398,50,Female,2,Buddhism,Married,Secondary,Unemployed looking for work,"Less than RM1,000",Kuala Lumpur,Central,24,22,18,15,4,2,12,13,11,16,15,1,3
+400,30,Female,2,Buddhism,Married,Secondary,Domestic homemaker,"Less than RM1,000",Kuala Lumpur,Central,30,23,19,20,4,2,13,13,5,15,11,2,3
+458,36,Male,2,Buddhism,Divorced/Permanently separated,Secondary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,28,25,22,14,12,2,11,14,12,12,7,1,3
+500,19,Male,2,Buddhism,Never married,Secondary,Student,"Less than RM1,000",Penang,North,25,18,23,10,6,2,12,10,15,16,19,2,4
+519,32,Male,2,Buddhism,Never married,Secondary,Unemployed looking for work,"RM4,000-RM6,999",Selangor,Central,24,20,24,16,16,6,12,12,11,14,18,1,4
+648,44,Female,2,Buddhism,Divorced/Permanently separated,Secondary,Employed full time,"RM4,000-RM6,999",Selangor,Central,26,21,25,10,4,6,9,14,3,20,25,2,5
+705,47,Male,3,Buddhism,Married,Secondary,Employed full time,"RM4,000-RM6,999",Johor,South,27,18,15,15,12,2,14,14,13,14,13,2,4
+721,38,Female,2,Buddhism,Married,Secondary,Employed full time,"RM4,000-RM6,999",Johor,South,28,16,23,13,10,6,12,12,12,15,20,2,4
+745,39,Male,2,Buddhism,Married,Secondary,Self-Employed,"RM4,000-RM6,999",Perak,North,22,13,21,16,13,2,15,11,12,14,15,2,4
+1380,38,Male,4,Buddhism,Never married,Secondary,Self-Employed,"RM4,000-RM6,999",Labuan,East Malaysia,25,18,18,5,11,3,13,15,15,16,13,2,2
+1579,63,Female,2,Buddhism,Married,Secondary,Retired,"RM4,000-RM6,999",Kuala Lumpur,Central,18,20,16,7,4,2,13,13,15,20,20,2,4
+1603,48,Female,2,Buddhism,Married,Secondary,Self-Employed,"Above RM10,000",Selangor,Central,28,21,22,20,8,3,11,12,9,4,6,2,3
+1614,48,Female,2,Buddhism,Married,Secondary,Employed full time,"RM4,000-RM6,999",Pahang,East Coast,21,20,21,15,10,3,10,12,12,12,10,2,3
+1776,19,Female,2,Buddhism,Never married,Secondary,Student,"Less than RM1,000",Sabah,East Malaysia,28,22,15,13,4,2,14,13,13,20,18,2,4
+1812,43,Female,2,Buddhism,Never married,Secondary,Employed full time,"RM4,000-RM6,999",Selangor,Central,15,18,19,14,9,6,8,9,15,13,11,2,4
+1823,33,Female,2,Buddhism,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Sarawak,East Malaysia,23,24,19,12,10,2,10,14,13,12,8,2,3
+1851,36,Male,2,Buddhism,Never married,Secondary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,21,19,16,17,12,2,13,15,8,15,11,1,4
+268,28,Male,2,Buddhism,Never married,Secondary,Self-Employed,"RM4,000-RM6,999",Selangor,Central,21,17,17,9,8,3,11,12,12,12,14,2,4
+9,30,Female,2,Taoism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,22,16,24,18,16,2,14,13,13,15,21,2,4
+19,30,Male,2,Taoism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,21,17,18,12,8,4,12,12,11,16,15,2,3
+49,35,Female,2,Taoism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,27,24,17,16,8,2,10,15,9,11,5,2,4
+65,31,Male,2,Taoism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,27,20,16,16,17,2,13,13,14,17,5,2,5
+100,48,Male,2,Taoism,Married,Tertiary,Employed full time,"Above RM10,000",Johor,South,23,17,19,15,12,4,12,12,8,12,15,2,3
+327,23,Female,2,Taoism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,23,17,17,8,8,2,12,12,12,14,15,2,4
+366,26,Male,2,Taoism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,23,19,17,12,8,2,15,15,13,19,16,2,4
+771,37,Male,2,Taoism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Penang,North,22,18,18,14,8,4,12,12,12,16,15,2,4
+857,31,Female,2,Taoism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,25,20,22,15,12,2,12,10,4,16,14,1,4
+1376,45,Male,2,Taoism,Widowed,Tertiary,Employed full time,"RM4,000-RM6,999",Perak,North,27,20,23,15,10,3,12,11,13,6,13,1,3
+1415,37,Female,2,Taoism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,20,17,16,10,12,4,9,11,11,13,15,2,4
+1577,56,Male,2,Taoism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,28,22,23,18,10,2,11,13,3,17,10,2,3
+1730,28,Male,2,Taoism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,22,10,14,9,5,2,12,12,11,12,9,2,4
+1733,31,Female,2,Taoism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,14,22,13,11,7,2,12,12,15,16,16,1,4
+1738,40,Male,2,Taoism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,20,14,16,11,2,12,12,8,9,10,2,4
+1762,30,Male,2,Taoism,Never married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,20,21,15,16,10,2,14,13,10,16,16,2,4
+1767,37,Female,2,Taoism,Divorced/Permanently separated,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,19,19,17,14,8,2,8,12,12,17,14,1,4
+1863,27,Male,2,Taoism,Never married,Tertiary,Student,"Less than RM1,000",Selangor,Central,23,18,22,7,4,2,15,14,15,15,15,2,5
+1880,29,Female,2,Taoism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,24,25,16,12,4,2,14,15,11,18,8,1,5
+1889,29,Female,2,Taoism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,24,19,13,11,4,2,15,15,15,20,20,2,4
+119,55,Female,6,Others,Widowed,Tertiary,Employed full time,"Above RM10,000",Johor,South,21,17,22,18,15,4,10,11,6,4,8,2,5
+204,39,Male,6,Others,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,7,24,14,8,2,3,5,15,20,25,2,5
+212,32,Female,2,Others,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,20,15,18,11,14,5,12,12,11,15,19,1,4
+374,32,Female,3,Others,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,22,19,16,13,9,2,10,12,10,12,12,2,4
+426,28,Female,2,Others,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Sarawak,East Malaysia,18,25,17,15,20,2,15,14,11,15,14,2,5
+734,57,Male,6,Others,Married,Tertiary,Retired,"Above RM10,000",Perak,North,8,16,26,12,9,2,4,5,11,5,5,1,4
+1414,60,Male,2,Others,Divorced/Permanently separated,Tertiary,Self-Employed,"RM4,000-RM6,999",Selangor,Central,22,15,10,10,4,2,9,13,15,16,15,2,4
+1780,34,Female,1,Others,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,24,13,23,8,13,2,15,15,13,17,17,2,4
+1792,26,Male,2,Others,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,19,19,20,13,18,2,9,10,10,11,12,1,3
+58,27,Male,2,None,Never married,Tertiary,Self-Employed,"RM1,000-RM3,999",Johor,South,27,21,20,19,5,2,12,10,10,12,7,1,4
+238,24,Female,2,None,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,21,19,14,8,4,2,12,12,12,16,15,2,3
+350,26,Female,2,None,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,24,21,21,19,16,2,12,12,5,16,16,2,3
+557,44,Female,2,None,Married,Tertiary,Domestic homemaker,"RM7,000-RM9,999",Selangor,Central,27,25,18,15,6,3,11,13,12,13,9,2,3
+1697,45,Male,2,None,Never married,Tertiary,Unemployed looking for work,"Less than RM1,000",Selangor,Central,22,18,18,16,13,2,6,13,11,14,10,2,3
+1714,29,Female,2,None,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,22,18,19,12,10,2,15,14,10,13,13,1,5
+1743,27,Male,2,None,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,23,21,11,11,9,2,10,10,10,19,10,2,4
+1745,33,Female,2,None,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,26,22,25,12,19,2,11,12,11,6,10,1,2
+1790,28,Male,2,None,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Johor,South,12,21,10,12,4,2,13,15,12,16,25,1,4
+1797,24,Female,2,None,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,21,20,21,17,14,3,8,11,10,11,14,1,3
+2,46,Male,1,Islam,Never married,Tertiary,Self-Employed,"RM1,000-RM3,999",Malacca,South,22,20,23,16,14,4,11,11,13,14,13,2,3
+7,79,Male,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Negeri Sembilan,South,30,25,29,20,18,10,12,14,14,19,24,1,5
+36,49,Male,1,Islam,Widowed,Tertiary,Self-Employed,"RM1,000-RM3,999",Perak,North,19,18,14,13,8,4,12,12,10,15,15,2,3
+40,56,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kelantan,East Coast,24,14,24,12,12,7,6,8,15,7,13,2,5
+81,43,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Negeri Sembilan,South,25,23,16,15,7,3,15,15,13,15,10,2,3
+82,40,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,26,25,26,15,12,2,12,15,13,16,19,2,3
+84,59,Male,1,Islam,Married,Tertiary,Retired,"RM7,000-RM9,999",Selangor,Central,27,25,22,10,5,2,12,13,10,20,21,2,4
+91,32,Female,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,28,25,14,9,8,2,12,12,14,19,24,2,4
+107,38,Female,1,Islam,Never married,Tertiary,Self-Employed,"RM1,000-RM3,999",Kuala Lumpur,Central,24,18,20,12,20,2,12,13,15,13,18,2,4
+108,43,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,22,20,24,9,8,3,13,14,15,20,21,2,4
+109,43,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,19,21,18,15,15,5,9,12,11,14,18,2,4
+113,30,Male,1,Islam,Married,Tertiary,Self-Employed,"RM4,000-RM6,999",Pahang,East Coast,29,22,27,18,10,2,15,13,13,18,23,1,4
+124,32,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,29,23,27,11,5,3,15,15,15,20,24,1,5
+127,30,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,29,22,17,12,10,4,13,12,14,20,25,2,4
+135,57,Female,1,Islam,Married,Tertiary,Retired,"RM7,000-RM9,999",Kuala Lumpur,Central,22,19,18,13,10,2,13,14,11,12,14,1,2
+146,61,Male,1,Islam,Married,Tertiary,Retired,"Less than RM1,000",Selangor,Central,17,16,19,10,12,3,10,10,9,16,20,2,3
+152,23,Male,1,Islam,Never married,Tertiary,Self-Employed,"RM4,000-RM6,999",Penang,North,18,12,19,15,14,7,9,12,10,16,18,1,4
+154,33,Female,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,19,18,20,8,14,2,11,12,9,14,11,3,3
+163,57,Female,1,Islam,Divorced/Permanently separated,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,16,22,10,4,4,2,15,15,15,19,24,2,4
+168,56,Female,1,Islam,Married,Tertiary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,26,22,17,14,11,2,12,13,11,13,10,2,4
+176,58,Male,1,Islam,Married,Tertiary,Self-Employed,"RM1,000-RM3,999",Kuala Lumpur,Central,29,24,16,9,9,4,12,12,14,17,22,2,4
+177,37,Male,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,27,24,22,20,20,6,15,15,12,16,16,1,3
+178,26,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kelantan,East Coast,25,17,16,15,16,4,12,12,10,15,23,3,5
+182,66,Male,1,Islam,Married,Tertiary,Employed part time,"RM1,000-RM3,999",Kedah,North,21,14,17,8,8,2,9,10,12,8,10,2,3
+188,51,Male,1,Islam,Married,Tertiary,Self-Employed,"RM7,000-RM9,999",Perak,North,19,13,6,16,4,2,15,15,10,20,24,2,5
+197,36,Female,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,17,20,18,5,4,5,13,14,15,20,25,2,4
+198,36,Female,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Pahang,East Coast,28,24,15,14,15,4,14,13,11,20,25,2,4
+203,42,Female,1,Islam,Married,Tertiary,Domestic homemaker,"Less than RM1,000",Kuala Lumpur,Central,27,25,25,11,8,2,14,13,15,16,20,2,3
+205,36,Male,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,26,20,21,8,8,5,8,7,13,13,18,2,3
+211,32,Male,1,Islam,Never married,Tertiary,Self-Employed,"Above RM10,000",Pahang,East Coast,24,16,16,12,12,4,7,8,8,9,16,1,5
+221,40,Female,1,Islam,Never married,Tertiary,Self-Employed,"Less than RM1,000",Kelantan,East Coast,24,20,22,13,8,6,12,12,11,14,15,2,3
+225,35,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,21,23,21,10,12,5,9,10,12,12,20,2,4
+226,65,Male,1,Islam,Married,Tertiary,Retired,"RM4,000-RM6,999",Selangor,Central,26,24,15,7,18,2,15,15,13,19,18,2,3
+227,61,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,26,18,15,13,7,4,15,15,12,14,9,2,5
+239,26,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,27,22,26,16,20,7,15,15,14,20,25,2,5
+240,68,Male,1,Islam,Married,Tertiary,Retired,"RM1,000-RM3,999",Selangor,Central,21,20,18,10,14,5,12,12,15,16,20,2,4
+241,36,Female,1,Islam,Never married,Tertiary,Unemployed looking for work,"Less than RM1,000",Terengganu,East Coast,13,14,26,12,11,9,9,8,10,10,13,2,3
+247,39,Male,1,Islam,Divorced/Permanently separated,Tertiary,Self-Employed,"RM4,000-RM6,999",Penang,North,18,9,26,16,13,4,7,8,11,12,5,2,5
+252,37,Female,2,Islam,Divorced/Permanently separated,Tertiary,Unemployed looking for work,"Less than RM1,000",Sabah,East Malaysia,28,15,26,11,16,7,8,12,14,13,12,1,3
+254,39,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Penang,North,29,17,12,13,16,2,12,14,14,17,21,2,5
+255,22,Female,1,Islam,Never married,Tertiary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,28,23,26,18,18,2,15,13,15,20,25,2,4
+274,53,Female,1,Islam,Married,Tertiary,Domestic homemaker,"Less than RM1,000",Kedah,North,9,17,14,10,12,2,14,15,14,19,20,2,3
+275,37,Female,1,Islam,Married,Tertiary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,23,18,12,9,4,3,12,13,12,20,20,2,5
+279,26,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,25,22,12,14,14,2,15,15,15,20,13,1,4
+280,36,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Perak,North,25,23,12,12,13,6,12,14,14,17,20,2,3
+290,34,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Johor,South,17,17,15,15,8,4,11,12,10,16,19,1,4
+299,37,Female,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,29,20,22,15,9,4,14,14,11,14,17,2,3
+301,26,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kelantan,East Coast,19,20,23,14,11,5,9,11,12,12,12,2,4
+307,23,Female,1,Islam,Never married,Tertiary,Student,"Less than RM1,000",Kelantan,East Coast,25,16,14,12,13,2,12,12,15,19,21,1,5
+310,30,Female,1,Islam,Never married,Tertiary,Unemployed looking for work,"Less than RM1,000",Kelantan,East Coast,26,22,17,8,4,2,15,15,15,20,25,1,5
+312,45,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,11,14,11,8,8,4,15,15,15,16,25,3,5
+315,27,Female,1,Islam,Never married,Tertiary,Employed part time,"RM1,000-RM3,999",Negeri Sembilan,South,25,21,15,8,4,2,15,13,15,16,15,2,4
+317,28,Female,5,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,30,25,30,20,4,2,15,11,15,20,25,2,5
+324,58,Male,1,Islam,Married,Tertiary,Retired,"RM1,000-RM3,999",Johor,South,22,19,15,12,4,2,9,12,15,20,12,2,4
+331,22,Female,1,Islam,Never married,Tertiary,Student,"Less than RM1,000",Kuala Lumpur,Central,21,18,19,13,12,4,9,9,12,11,6,1,3
+332,45,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,6,10,8,4,4,2,12,12,15,20,25,2,5
+333,53,Female,1,Islam,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,21,21,15,11,12,4,12,11,12,12,10,2,3
+337,56,Male,1,Islam,Married,Tertiary,Retired,"Less than RM1,000",Selangor,Central,24,17,8,11,9,2,14,15,12,14,11,2,4
+347,21,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,27,22,15,14,9,2,14,15,13,14,14,2,4
+375,22,Female,1,Islam,Never married,Tertiary,Student,"Less than RM1,000",Penang,North,20,24,22,14,14,4,12,12,14,15,17,2,4
+385,21,Male,1,Islam,Never married,Tertiary,Employed part time,"RM1,000-RM3,999",Malacca,South,27,20,12,8,6,7,11,14,12,14,20,3,4
+386,23,Male,1,Islam,Never married,Tertiary,Unemployed looking for work,"Less than RM1,000",Kuala Lumpur,Central,26,24,16,15,18,4,15,14,13,20,25,2,4
+392,43,Male,1,Islam,Married,Tertiary,Self-Employed,"RM1,000-RM3,999",Johor,South,24,17,10,10,5,2,9,11,12,15,23,2,3
+393,20,Male,1,Islam,Married,Tertiary,Student,"RM7,000-RM9,999",Selangor,Central,24,19,11,10,9,2,11,14,13,17,17,2,5
+394,36,Male,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,27,23,16,11,10,3,11,12,12,16,20,2,4
+403,40,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,19,22,13,11,7,2,8,14,15,14,10,2,3
+407,29,Male,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Negeri Sembilan,South,24,20,20,18,5,2,15,15,15,20,23,3,4
+410,41,Male,1,Islam,Never married,Tertiary,Self-Employed,"RM1,000-RM3,999",Johor,South,17,23,21,15,20,4,11,10,11,12,17,2,5
+412,46,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,28,21,8,16,8,2,15,15,15,20,25,2,4
+416,26,Male,1,Islam,Never married,Tertiary,Unemployed looking for work,"Less than RM1,000",Johor,South,26,14,11,14,8,3,14,12,9,16,19,2,4
+428,27,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,25,22,22,10,14,7,9,10,11,16,16,1,4
+433,49,Female,1,Islam,Married,Tertiary,Unemployed not looking for work,"Above RM10,000",Selangor,Central,21,16,19,14,12,5,11,12,12,16,13,2,3
+436,23,Male,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Malacca,South,22,19,20,11,9,4,12,10,10,17,20,1,4
+439,29,Male,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,18,15,10,11,16,4,8,11,15,20,9,2,4
+440,38,Female,1,Islam,Married,Tertiary,Self-Employed,"RM1,000-RM3,999",Penang,North,20,23,22,15,4,3,15,15,14,17,25,2,5
+451,31,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,27,19,20,13,12,5,13,15,12,16,22,2,4
+459,22,Female,1,Islam,Never married,Tertiary,Student,"Less than RM1,000",Selangor,Central,24,23,13,13,4,2,14,15,12,20,22,3,5
+462,36,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,24,15,21,15,4,5,12,14,8,17,12,1,5
+463,29,Female,1,Islam,Never married,Tertiary,Unemployed looking for work,"Less than RM1,000",Pahang,East Coast,21,13,16,8,4,2,15,15,15,16,15,2,5
+464,26,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Negeri Sembilan,South,22,14,22,15,8,4,9,12,10,13,16,2,3
+472,26,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Negeri Sembilan,South,22,16,13,8,8,2,15,15,15,20,25,2,4
+474,39,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kedah,North,27,20,9,10,9,2,15,15,15,17,20,2,5
+475,33,Female,1,Islam,Married,Tertiary,Self-Employed,"RM1,000-RM3,999",Penang,North,25,22,19,17,10,4,10,12,11,16,20,2,5
+477,60,Female,1,Islam,Married,Tertiary,Retired,"RM1,000-RM3,999",Putrajaya,Central,26,13,10,7,5,2,11,14,15,18,18,2,5
+478,30,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,28,25,23,13,14,3,14,15,14,17,24,2,4
+479,39,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,27,20,22,15,13,3,13,15,15,18,13,2,4
+486,41,Female,1,Islam,Divorced/Permanently separated,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,15,15,14,9,3,12,12,11,16,19,2,4
+505,24,Male,1,Islam,Never married,Tertiary,Unemployed looking for work,"RM1,000-RM3,999",Johor,South,18,15,18,12,12,6,9,9,9,12,15,3,4
+507,43,Female,1,Islam,Married,Tertiary,Domestic homemaker,"Less than RM1,000",Selangor,Central,25,20,14,8,6,2,15,14,10,16,19,2,5
+511,30,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,24,19,23,17,16,7,11,11,11,15,19,1,3
+515,55,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Pahang,East Coast,18,16,7,8,4,2,15,15,15,20,25,2,5
+527,28,Female,6,Islam,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,25,19,12,8,8,2,9,15,11,14,13,2,5
+528,37,Female,2,Islam,Married,Tertiary,Unemployed looking for work,"RM1,000-RM3,999",Perak,North,23,18,20,13,12,6,9,10,9,12,15,2,3
+555,39,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,27,23,12,15,8,2,9,15,12,18,10,2,4
+591,31,Female,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,27,19,21,6,5,2,9,13,15,16,18,2,2
+597,30,Female,2,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kedah,North,26,19,24,14,17,7,10,11,11,12,21,2,5
+608,37,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,17,12,14,9,4,12,15,11,19,21,2,5
+609,38,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,22,21,20,11,4,2,15,14,14,16,16,2,3
+631,40,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,23,16,22,14,13,7,12,12,12,16,20,2,5
+632,27,Male,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,25,21,14,14,19,2,14,12,14,19,21,2,4
+643,41,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Terengganu,East Coast,27,25,16,10,8,5,15,14,13,17,22,2,4
+644,59,Male,1,Islam,Married,Tertiary,Self-Employed,"RM4,000-RM6,999",Selangor,Central,23,19,14,11,12,5,11,13,12,14,5,2,4
+647,46,Female,1,Islam,Married,Tertiary,Self-Employed,"RM7,000-RM9,999",Kelantan,East Coast,23,17,11,12,6,2,15,15,11,20,20,2,4
+667,55,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,19,21,12,14,14,3,10,12,6,20,25,2,4
+733,30,Female,1,Islam,Married,Tertiary,Domestic homemaker,"RM4,000-RM6,999",Johor,South,20,15,21,19,18,5,10,9,10,14,16,2,3
+751,22,Male,1,Islam,Never married,Tertiary,Student,"RM4,000-RM6,999",Perak,North,29,25,27,18,8,4,15,14,15,20,25,2,5
+780,28,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kedah,North,20,17,13,10,8,3,13,12,15,15,20,2,4
+782,44,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Perak,North,30,25,8,6,6,2,15,15,15,20,25,3,5
+841,39,Female,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,27,23,24,16,6,6,11,14,15,12,15,2,4
+953,44,Female,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Kelantan,East Coast,30,25,23,20,20,5,12,9,9,14,18,2,4
+963,37,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Johor,South,16,14,27,17,16,4,5,5,10,7,7,2,5
+1007,28,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kedah,North,24,18,14,9,8,2,15,15,12,15,19,2,5
+1034,33,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Perak,North,25,17,15,9,7,4,12,12,11,16,24,2,3
+1083,51,Male,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,23,21,10,16,13,8,11,9,11,15,16,2,3
+1097,30,Female,1,Islam,Married,Tertiary,Self-Employed,"RM7,000-RM9,999",Negeri Sembilan,South,23,19,20,15,14,7,10,10,10,13,15,2,4
+1098,38,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Malacca,South,29,17,24,14,15,6,12,10,8,11,12,2,4
+1104,23,Male,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,27,25,19,10,9,2,13,14,13,20,24,2,3
+1114,44,Male,1,Islam,Married,Tertiary,Self-Employed,"RM4,000-RM6,999",Kedah,North,22,22,11,15,4,2,15,15,12,19,21,1,5
+1135,48,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Malacca,South,23,22,15,15,8,3,13,14,9,19,20,2,4
+1152,38,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,27,22,9,12,20,2,15,14,10,16,15,2,4
+1158,42,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Penang,North,28,22,14,15,8,2,15,12,10,18,25,2,4
+1209,28,Female,1,Islam,Married,Tertiary,Domestic homemaker,"RM4,000-RM6,999",Terengganu,East Coast,21,24,12,14,4,2,15,15,14,15,14,2,4
+1219,33,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Pahang,East Coast,25,19,19,13,12,2,12,13,12,16,20,1,3
+1220,24,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Kelantan,East Coast,22,22,23,17,16,9,12,13,14,16,20,1,5
+1233,42,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Malacca,South,21,22,14,16,7,3,12,14,11,16,16,1,3
+1313,25,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,22,14,20,13,8,3,9,10,12,14,15,2,3
+1400,53,Female,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,19,21,19,15,10,4,12,12,10,16,15,2,4
+1412,45,Male,2,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,30,25,30,20,20,10,15,15,11,17,13,1,3
+1419,31,Female,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,24,22,21,18,12,2,14,15,3,7,5,2,4
+1430,22,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Penang,North,23,21,18,12,12,5,12,12,9,12,15,2,4
+1453,54,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,24,20,12,12,10,2,12,11,11,13,18,2,3
+1467,37,Male,2,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Sarawak,East Malaysia,25,18,15,15,10,4,12,11,9,16,15,2,4
+1507,40,Female,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,24,19,17,16,16,7,12,12,9,11,15,3,3
+1510,23,Female,1,Islam,Never married,Tertiary,Self-Employed,"RM4,000-RM6,999",Penang,North,26,20,14,16,19,2,15,15,9,20,10,2,4
+1553,54,Male,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,22,15,17,15,14,3,12,14,9,16,22,2,4
+1574,46,Female,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,11,21,16,11,8,3,14,15,10,19,19,2,4
+1613,47,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Penang,North,26,17,15,11,8,4,15,15,12,20,15,1,4
+1660,21,Female,1,Islam,Never married,Tertiary,Student,"Less than RM1,000",Johor,South,29,23,19,13,12,2,13,15,14,12,14,2,4
+1661,20,Female,1,Islam,Never married,Tertiary,Student,"Less than RM1,000",Kelantan,East Coast,19,18,19,14,15,2,11,12,8,16,14,2,4
+1666,21,Female,1,Islam,Never married,Tertiary,Student,"Less than RM1,000",Kelantan,East Coast,23,16,19,13,8,5,12,12,11,16,15,2,4
+1694,41,Male,1,Islam,Divorced/Permanently separated,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,19,17,15,15,20,2,13,12,12,16,5,2,4
+1695,37,Male,5,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Sarawak,East Malaysia,19,23,20,8,10,5,12,13,13,19,25,2,3
+1702,38,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,26,23,21,15,5,2,9,11,12,12,5,2,3
+1715,27,Female,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,16,12,14,10,2,8,15,12,14,5,1,4
+1716,26,Female,4,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,26,22,19,9,8,2,12,15,12,16,20,1,4
+1719,34,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,20,18,22,15,10,2,14,14,10,10,10,1,4
+1720,32,Male,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,18,18,12,15,13,6,12,12,9,15,19,1,4
+1722,27,Male,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Johor,South,27,19,21,14,13,3,14,15,10,17,9,2,4
+1724,32,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,13,12,18,8,12,5,8,11,15,4,10,2,5
+1728,27,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,15,18,13,15,10,4,10,11,10,12,20,2,5
+1732,27,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,20,19,10,4,12,2,15,15,12,17,12,1,4
+1740,25,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,23,19,23,15,11,4,11,14,13,16,13,1,5
+1741,29,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,22,21,20,9,7,2,11,12,14,14,15,1,4
+1758,31,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,15,23,8,8,3,15,15,12,16,20,2,4
+1770,30,Female,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,12,17,18,13,13,4,11,12,12,12,15,1,3
+1779,27,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,26,24,24,11,8,2,14,15,15,20,19,1,5
+1791,29,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,20,20,16,8,8,2,8,15,14,19,11,1,4
+1795,30,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,9,14,30,11,10,8,3,4,9,4,5,2,5
+1803,23,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,21,15,15,17,12,3,7,15,10,15,11,2,4
+1811,24,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,20,18,18,13,10,2,13,15,13,19,10,1,4
+1815,28,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,23,16,16,11,6,2,13,13,13,14,15,1,3
+1824,27,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,27,19,17,13,6,2,14,14,11,18,15,1,4
+1833,27,Male,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,27,22,18,15,19,2,15,15,11,12,10,1,3
+1834,25,Female,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,14,9,7,7,2,11,15,15,20,19,2,4
+1841,29,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,11,20,13,7,14,2,15,15,15,20,15,1,5
+1843,44,Female,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,20,22,17,12,4,2,12,13,12,16,12,1,3
+1844,44,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Penang,North,23,18,6,9,18,2,14,13,15,20,19,2,3
+1846,39,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,25,25,11,16,12,2,15,15,11,19,17,2,4
+1847,44,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Perak,North,21,21,21,9,12,2,13,14,12,16,22,2,4
+1850,45,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,16,16,14,14,12,5,12,12,11,16,18,2,4
+1852,40,Male,1,Islam,Married,Tertiary,Self-Employed,"RM1,000-RM3,999",Kuala Lumpur,Central,23,23,18,18,13,5,10,14,12,18,20,2,4
+1853,49,Female,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Malacca,South,19,25,16,9,4,5,13,13,15,18,18,2,4
+1856,33,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Perak,North,21,16,17,14,8,4,12,12,8,16,20,2,4
+1861,47,Male,1,Islam,Never married,Tertiary,Self-Employed,"RM7,000-RM9,999",Kuala Lumpur,Central,15,22,18,15,8,2,12,15,12,8,8,2,4
+1879,33,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,20,15,18,20,20,6,8,10,10,8,5,2,5
+1885,36,Female,1,Islam,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,21,24,17,13,9,3,14,15,12,16,14,1,4
+1893,34,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,23,16,12,10,10,2,8,14,14,20,15,2,5
+1897,48,Male,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Kedah,North,25,20,17,15,8,4,12,12,10,12,5,2,4
+1898,45,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Terengganu,East Coast,19,23,9,8,6,3,13,15,13,19,21,2,5
+1900,43,Male,1,Islam,Married,Tertiary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,22,20,20,11,7,2,11,12,11,16,20,2,4
+1905,42,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,29,20,7,5,12,2,15,15,15,20,11,2,4
+1906,42,Female,1,Islam,Married,Tertiary,Domestic homemaker,"RM1,000-RM3,999",Selangor,Central,24,21,12,13,7,3,11,14,15,18,25,3,3
+1907,42,Female,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,23,22,20,11,12,2,13,15,14,17,15,1,4
+1908,43,Female,1,Islam,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,13,19,9,9,4,2,13,15,15,20,23,2,4
+1909,42,Female,1,Islam,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,25,24,13,12,8,2,10,15,12,20,19,2,4
+1912,43,Female,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,25,22,16,8,4,2,15,15,15,18,16,2,5
+1913,43,Female,1,Islam,Married,Tertiary,Domestic homemaker,"Less than RM1,000",Selangor,Central,29,22,12,7,4,2,14,15,15,20,20,2,4
+1918,43,Female,1,Islam,Never married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,18,18,15,11,6,2,12,15,13,19,18,2,4
+1919,43,Female,1,Islam,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Perlis,North,23,19,13,8,8,2,15,15,15,19,18,2,4
+1920,42,Female,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,24,17,18,8,8,4,12,14,15,15,15,1,3
+1922,43,Female,1,Islam,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Negeri Sembilan,South,22,24,21,13,7,4,11,13,15,14,9,3,4
+1924,28,Male,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,20,19,20,9,16,4,13,14,15,16,21,2,5
+1925,29,Female,1,Islam,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,22,22,18,12,12,2,15,15,11,16,19,2,4
+1926,30,Male,1,Islam,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,28,15,8,8,16,2,15,15,12,19,6,2,3
+243,35,Male,3,Islam,Married,Tertiary,Self-Employed,"RM4,000-RM6,999",Kuala Lumpur,Central,26,17,17,13,8,2,11,12,13,14,8,2,4
+669,63,Female,6,Islam,Married,Tertiary,Retired,"Above RM10,000",Kuala Lumpur,Central,15,17,13,5,4,2,15,14,15,20,15,2,3
+1769,25,Female,1,Islam,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,25,22,16,8,16,2,15,15,14,18,13,2,4
+47,51,Male,3,Hinduism,Married,Tertiary,Self-Employed,"RM7,000-RM9,999",Kedah,North,30,24,19,11,13,2,15,15,15,19,25,2,3
+242,27,Female,3,Hinduism,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,24,20,14,17,18,2,14,15,7,16,15,1,4
+259,28,Female,3,Hinduism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,18,9,30,19,20,10,15,15,15,20,25,1,5
+263,25,Female,3,Hinduism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kedah,North,27,14,12,4,4,2,13,12,12,16,25,2,4
+276,30,Male,3,Hinduism,Never married,Tertiary,Student,"RM4,000-RM6,999",Selangor,Central,29,19,19,13,8,2,11,14,15,16,18,2,3
+295,24,Female,3,Hinduism,Never married,Tertiary,Student,"Less than RM1,000",Johor,South,21,19,16,13,4,2,11,13,12,17,20,2,3
+334,24,Female,3,Hinduism,Never married,Tertiary,Student,"RM1,000-RM3,999",Selangor,Central,26,25,18,4,16,2,15,15,15,20,25,2,4
+342,34,Male,3,Hinduism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Malacca,South,26,18,22,16,15,3,12,12,12,4,10,2,4
+389,18,Female,3,Hinduism,Never married,Tertiary,Student,"RM1,000-RM3,999",Negeri Sembilan,South,20,22,29,18,19,7,14,15,11,14,18,2,5
+467,29,Female,3,Hinduism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,22,20,15,9,7,3,9,11,12,16,20,1,4
+501,39,Female,3,Hinduism,Married,Tertiary,Unemployed looking for work,"RM4,000-RM6,999",Penang,North,19,13,14,9,8,4,11,12,12,16,22,2,5
+618,20,Male,3,Hinduism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,20,12,18,12,10,6,11,11,8,10,15,2,4
+772,53,Female,3,Hinduism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,25,22,23,10,6,2,14,14,12,16,18,2,4
+792,41,Male,3,Hinduism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,16,14,21,13,7,2,8,11,11,12,13,2,4
+797,71,Male,3,Hinduism,Married,Tertiary,Self-Employed,"RM7,000-RM9,999",Johor,South,21,15,14,12,14,2,12,13,12,12,18,1,4
+1076,43,Female,3,Hinduism,Married,Tertiary,Self-Employed,"Above RM10,000",Perak,North,29,19,8,10,4,2,15,15,14,20,25,1,4
+1087,45,Male,3,Hinduism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,30,25,22,16,18,3,14,14,8,12,10,2,3
+1426,30,Female,3,Hinduism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,19,25,11,14,11,2,11,11,14,16,16,2,4
+1443,33,Female,3,Hinduism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,21,21,17,16,7,2,12,12,12,10,13,2,4
+1558,36,Female,3,Hinduism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,19,15,19,17,10,2,11,13,11,14,15,2,4
+1652,21,Female,1,Hinduism,Married,Tertiary,Student,"RM4,000-RM6,999",Kelantan,East Coast,23,17,13,11,6,2,14,15,9,12,14,2,4
+1671,21,Female,3,Hinduism,Never married,Tertiary,Student,"RM1,000-RM3,999",Penang,North,27,16,15,15,9,2,10,13,10,17,15,2,4
+1752,28,Female,3,Hinduism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,21,17,17,12,6,2,11,15,11,17,20,1,4
+1870,27,Female,3,Hinduism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,17,19,18,5,6,2,3,12,14,19,10,1,5
+1887,29,Female,3,Hinduism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,6,16,18,9,10,2,7,14,14,14,7,2,3
+143,56,Female,3,Hinduism,Married,Tertiary,Employed part time,"RM1,000-RM3,999",Negeri Sembilan,South,22,17,14,7,13,2,11,14,8,15,14,2,4
+638,41,Male,3,Hinduism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,8,17,21,12,12,2,5,7,12,4,10,2,4
+1771,40,Male,3,Hinduism,Divorced/Permanently separated,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,25,25,7,11,5,2,15,15,15,20,17,1,5
+43,39,Male,5,Christianity,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Sarawak,East Malaysia,29,21,22,12,14,5,9,11,8,12,14,2,4
+71,63,Male,2,Christianity,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Sarawak,East Malaysia,20,17,25,9,17,2,12,12,10,7,5,2,5
+140,30,Female,2,Christianity,Never married,Tertiary,Employed part time,"Less than RM1,000",Selangor,Central,23,22,20,11,6,2,11,15,14,14,10,2,4
+149,57,Male,2,Christianity,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Sabah,East Malaysia,22,24,25,9,12,2,9,15,12,12,6,2,4
+187,49,Male,2,Christianity,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,22,16,18,6,5,2,12,12,15,20,15,2,5
+192,35,Female,2,Christianity,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,11,13,13,15,4,2,14,15,13,16,19,1,4
+199,39,Male,5,Christianity,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Sarawak,East Malaysia,29,18,24,14,15,2,12,14,11,12,15,2,4
+231,25,Male,5,Christianity,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,29,23,14,16,4,2,14,13,11,20,17,2,5
+261,33,Male,2,Christianity,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Penang,North,23,20,12,16,12,2,9,11,9,16,15,2,4
+319,24,Male,5,Christianity,Never married,Tertiary,Unemployed looking for work,"Less than RM1,000",Sarawak,East Malaysia,26,22,15,15,9,2,11,14,11,19,13,1,5
+406,30,Male,2,Christianity,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,18,14,19,14,15,4,12,12,8,12,15,3,4
+430,39,Male,2,Christianity,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,28,25,26,10,6,3,15,13,14,19,20,2,4
+449,28,Female,2,Christianity,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Johor,South,24,21,15,14,10,2,11,12,15,17,17,2,5
+482,38,Female,5,Christianity,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,14,17,6,4,4,2,9,15,15,20,25,2,5
+494,27,Female,2,Christianity,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,24,18,19,9,12,3,12,12,12,15,16,2,4
+624,36,Male,2,Christianity,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,25,24,17,14,13,2,7,14,10,12,8,2,4
+713,44,Male,3,Christianity,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,28,20,16,12,19,2,15,15,11,16,14,2,3
+740,41,Male,2,Christianity,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Perak,North,26,18,17,13,11,2,12,12,11,16,16,2,4
+852,44,Female,2,Christianity,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Penang,North,18,17,18,14,11,5,10,12,9,12,10,2,4
+1458,49,Male,2,Christianity,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Sarawak,East Malaysia,27,24,6,16,6,2,13,13,9,19,21,1,3
+1464,60,Male,2,Christianity,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,16,13,9,5,6,2,14,14,15,17,9,2,5
+1480,53,Female,2,Christianity,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Sarawak,East Malaysia,19,18,22,13,9,2,11,11,11,16,15,2,4
+1483,39,Male,2,Christianity,Married,Tertiary,Employed full time,"Above RM10,000",Sarawak,East Malaysia,24,23,21,16,12,4,12,12,11,16,11,2,4
+1557,56,Female,2,Christianity,Married,Tertiary,Retired,"RM4,000-RM6,999",Selangor,Central,21,11,15,10,8,2,15,15,13,16,12,2,3
+1584,58,Male,2,Christianity,Married,Tertiary,Self-Employed,"RM4,000-RM6,999",Selangor,Central,22,17,21,10,11,2,12,14,11,15,16,2,4
+1670,63,Male,2,Christianity,Divorced/Permanently separated,Tertiary,Retired,"RM1,000-RM3,999",Penang,North,26,19,20,14,6,2,15,15,14,16,14,3,5
+1725,26,Female,2,Christianity,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,25,17,18,11,8,3,7,13,11,14,5,1,4
+1731,29,Female,2,Christianity,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,21,22,14,5,8,2,12,15,15,17,17,1,4
+1736,27,Female,4,Christianity,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,18,15,16,16,7,2,12,15,9,14,8,1,5
+1737,40,Female,2,Christianity,Never married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,21,20,17,11,4,2,12,14,14,17,13,2,3
+1747,34,Female,2,Christianity,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,19,21,17,14,8,2,10,13,11,16,17,2,4
+1755,29,Male,2,Christianity,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,26,16,17,13,9,2,13,13,14,12,10,1,4
+1766,33,Female,2,Christianity,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,29,23,12,14,6,2,13,15,11,16,10,2,4
+1793,36,Female,2,Christianity,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,20,19,18,18,7,2,14,13,7,15,15,3,4
+1804,45,Female,2,Christianity,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,27,25,22,16,17,2,12,14,3,14,13,1,4
+1835,28,Female,2,Christianity,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Perak,North,26,19,10,8,6,2,13,14,14,14,13,1,5
+1839,27,Male,2,Christianity,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Perak,North,19,25,8,4,4,2,15,15,15,20,12,2,5
+1857,53,Female,3,Christianity,Married,Tertiary,Unemployed looking for work,"RM7,000-RM9,999",Negeri Sembilan,South,28,18,19,14,10,4,9,12,11,16,15,2,4
+1877,62,Male,3,Christianity,Married,Tertiary,Self-Employed,"RM7,000-RM9,999",Johor,South,27,22,16,4,4,3,14,15,12,12,7,1,4
+1882,26,Female,2,Christianity,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,27,25,15,18,12,2,13,14,12,14,12,2,4
+56,47,Female,4,Catholicism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Sabah,East Malaysia,19,14,13,15,9,2,10,12,7,15,15,2,4
+110,29,Male,4,Catholicism,Never married,Tertiary,Self-Employed,"Less than RM1,000",Sabah,East Malaysia,28,24,26,7,9,7,6,10,15,15,21,2,4
+134,31,Female,2,Catholicism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,24,16,15,19,9,2,12,15,11,16,10,2,4
+148,21,Male,5,Catholicism,Never married,Tertiary,Student,"Less than RM1,000",Sarawak,East Malaysia,17,21,14,10,9,4,12,10,12,17,16,2,4
+213,38,Female,4,Catholicism,Never married,Tertiary,Self-Employed,"RM4,000-RM6,999",Kuala Lumpur,Central,25,13,11,8,4,2,15,15,12,13,6,2,3
+352,46,Female,3,Catholicism,Married,Tertiary,Unemployed looking for work,"RM1,000-RM3,999",Selangor,Central,23,20,13,14,6,2,14,15,7,10,5,2,4
+441,38,Female,2,Catholicism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Sarawak,East Malaysia,22,17,15,12,4,2,15,15,15,20,25,2,3
+487,25,Female,2,Catholicism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,27,23,30,16,8,2,7,11,10,8,6,2,5
+547,36,Male,2,Catholicism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,22,17,23,12,11,4,10,10,11,16,11,2,3
+580,47,Female,2,Catholicism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,22,16,21,8,8,4,12,12,11,14,15,2,4
+770,41,Female,6,Catholicism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,22,11,20,10,7,5,10,12,9,11,13,2,4
+1385,32,Female,3,Catholicism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,25,20,12,12,4,2,15,15,12,16,15,1,4
+1394,59,Male,2,Catholicism,Married,Tertiary,Self-Employed,"RM7,000-RM9,999",Selangor,Central,26,16,11,6,4,2,11,14,15,16,15,1,4
+1621,60,Male,2,Catholicism,Married,Tertiary,Retired,"RM4,000-RM6,999",Penang,North,21,18,17,8,8,2,12,13,15,14,10,2,4
+1744,27,Female,3,Catholicism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kedah,North,24,13,7,6,6,2,15,15,15,20,11,1,4
+1768,30,Male,5,Catholicism,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,25,15,19,11,5,2,11,11,13,20,13,1,4
+1892,29,Male,3,Catholicism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,19,22,14,10,5,2,13,15,15,14,16,2,4
+1,43,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Penang,North,26,22,22,12,9,4,13,13,11,17,19,2,4
+5,25,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Perak,North,23,18,22,16,16,8,12,12,12,16,20,1,4
+8,19,Male,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Malacca,South,27,16,16,8,4,2,15,15,15,20,25,3,4
+15,20,Male,2,Buddhism,Never married,Tertiary,Student,"RM1,000-RM3,999",Terengganu,East Coast,27,19,25,15,10,7,12,12,12,16,18,1,4
+21,19,Female,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Kedah,North,25,20,15,16,14,2,12,12,13,16,11,2,4
+26,49,Female,2,Buddhism,Married,Tertiary,Self-Employed,"RM4,000-RM6,999",Negeri Sembilan,South,20,19,21,11,4,4,8,12,12,12,8,2,4
+35,25,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,22,25,22,11,4,2,9,14,15,20,16,2,4
+44,21,Male,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,24,18,24,18,17,7,11,12,10,16,21,2,3
+53,18,Female,2,Buddhism,Never married,Tertiary,Employed part time,"RM1,000-RM3,999",Perak,North,25,18,18,12,7,2,13,15,11,12,11,2,3
+61,52,Male,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,28,25,13,13,16,2,9,15,9,11,20,2,4
+69,30,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,26,18,22,15,14,5,12,12,11,17,19,2,3
+74,22,Female,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Pahang,East Coast,28,18,21,15,7,2,11,13,8,16,10,2,4
+92,24,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Johor,South,18,15,18,12,12,6,9,9,9,12,15,2,3
+96,30,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,24,25,19,16,7,2,15,15,14,17,15,1,4
+105,27,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,27,17,20,20,14,2,11,13,9,15,15,2,4
+111,21,Male,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Johor,South,22,16,12,13,8,2,10,12,14,18,20,2,5
+114,41,Female,6,Buddhism,Never married,Tertiary,Unemployed looking for work,"RM1,000-RM3,999",Selangor,Central,30,19,19,15,8,2,11,12,8,15,6,1,3
+122,23,Female,2,Buddhism,Never married,Tertiary,Unemployed looking for work,"Less than RM1,000",Kuala Lumpur,Central,24,19,14,16,4,2,12,15,13,20,20,2,4
+123,25,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,26,21,19,15,10,3,12,11,13,16,13,1,4
+129,25,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Penang,North,30,25,30,20,20,10,12,15,12,20,15,2,5
+130,53,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Penang,North,25,18,14,16,4,2,10,13,14,16,16,2,4
+138,34,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kelantan,East Coast,21,22,19,13,7,2,10,11,12,16,11,2,4
+145,22,Female,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Selangor,Central,26,12,18,14,13,3,10,11,9,20,19,3,3
+150,21,Male,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Selangor,Central,24,14,22,9,11,2,3,8,7,11,7,2,4
+181,29,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,20,16,18,12,13,5,11,11,12,12,15,2,4
+185,40,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,25,23,20,15,11,2,13,14,6,7,11,2,4
+189,31,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,25,24,22,17,16,4,12,11,10,16,14,2,4
+193,37,Female,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Johor,South,20,21,19,14,8,3,10,9,7,7,6,2,3
+202,34,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Malacca,South,26,19,10,16,19,2,14,12,7,16,11,2,4
+207,36,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,21,19,16,17,13,2,11,11,11,16,14,2,4
+209,26,Female,2,Buddhism,Never married,Tertiary,Employed full time,"Less than RM1,000",Johor,South,19,19,23,15,17,5,12,14,12,17,16,2,4
+210,28,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,22,18,19,13,16,2,12,14,11,19,19,2,4
+228,61,Male,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Pahang,East Coast,29,22,17,7,4,2,12,14,14,16,7,2,4
+229,36,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,28,23,25,17,9,4,13,15,9,20,25,1,4
+249,22,Male,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Selangor,Central,22,19,22,15,7,5,12,12,9,14,10,2,2
+264,38,Male,2,Buddhism,Never married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,22,17,23,16,4,2,12,12,15,7,5,2,4
+266,22,Male,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Penang,North,23,21,16,18,12,2,13,15,13,20,18,2,3
+270,44,Male,2,Buddhism,Never married,Tertiary,Self-Employed,"RM1,000-RM3,999",Selangor,Central,22,18,29,18,10,6,5,6,11,8,8,2,2
+283,33,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,25,20,18,14,8,2,15,15,12,14,10,2,4
+313,21,Female,2,Buddhism,Never married,Tertiary,Employed part time,"RM1,000-RM3,999",Kuala Lumpur,Central,26,19,24,16,11,4,10,12,7,14,14,3,4
+322,32,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,19,20,20,12,15,5,10,12,5,11,10,2,3
+335,20,Female,2,Buddhism,Never married,Tertiary,Student,"RM1,000-RM3,999",Sarawak,East Malaysia,26,20,16,12,4,2,13,15,15,17,17,2,5
+340,32,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Penang,North,27,21,17,6,4,2,13,12,15,17,16,2,4
+361,34,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,21,19,19,8,8,3,11,12,14,20,15,2,5
+363,36,Female,2,Buddhism,Never married,Tertiary,Employed part time,"RM1,000-RM3,999",Kuala Lumpur,Central,20,20,25,14,9,3,11,12,10,16,11,2,4
+368,37,Female,2,Buddhism,Never married,Tertiary,Self-Employed,"Less than RM1,000",Negeri Sembilan,South,23,16,21,13,12,3,7,8,10,11,9,2,3
+378,36,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Johor,South,25,19,20,12,4,3,12,12,14,19,21,2,4
+381,43,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,18,15,18,12,12,6,9,9,9,12,15,2,3
+387,31,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,21,22,15,11,2,9,10,9,12,10,2,2
+390,30,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,26,19,24,16,9,4,12,12,11,16,20,2,5
+401,26,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,28,23,29,19,18,9,14,15,14,18,21,2,5
+402,26,Female,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Johor,South,27,14,17,9,14,2,14,12,13,18,13,2,4
+404,25,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,29,22,14,14,5,2,15,15,13,19,18,2,4
+405,21,Female,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Selangor,Central,21,20,14,19,12,2,15,15,13,20,21,2,4
+421,27,Female,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Kedah,North,26,20,17,11,13,2,8,11,15,16,13,2,4
+435,35,Female,2,Buddhism,Never married,Tertiary,Employed part time,"RM1,000-RM3,999",Selangor,Central,27,25,25,13,13,3,11,13,12,12,15,1,3
+442,24,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,17,16,18,14,9,3,12,11,10,13,10,2,3
+444,32,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Sarawak,East Malaysia,25,23,20,6,15,2,14,11,14,16,21,1,5
+448,28,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Johor,South,24,18,24,16,16,8,12,12,11,14,17,2,4
+461,19,Male,2,Buddhism,Never married,Tertiary,Student,"RM1,000-RM3,999",Penang,North,22,17,13,9,9,2,15,15,11,19,15,2,5
+471,27,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,29,23,23,18,14,2,15,15,11,16,15,1,5
+483,32,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Johor,South,28,19,23,17,19,6,12,12,3,6,5,2,3
+497,39,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,20,19,20,13,7,5,9,11,15,15,13,1,4
+502,32,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,18,18,19,16,4,2,11,12,11,16,16,2,3
+504,30,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,14,22,19,6,4,2,6,14,12,15,16,1,4
+506,26,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,21,22,18,17,10,3,15,15,15,15,7,2,4
+509,27,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,27,24,22,18,13,2,9,11,11,11,10,2,4
+513,30,Male,2,Buddhism,Never married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,20,22,13,12,5,2,11,13,11,15,11,2,5
+516,26,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM1,000-RM3,999",Penang,North,26,23,27,18,18,8,12,15,13,17,19,1,4
+522,25,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,21,18,16,14,9,6,10,8,12,12,10,2,4
+529,40,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,22,18,19,15,12,6,10,11,9,12,13,2,3
+530,23,Female,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Perak,North,27,16,21,14,16,2,12,12,12,12,12,2,4
+560,46,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Penang,North,29,20,16,12,7,3,13,14,12,16,21,2,5
+568,32,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,21,19,18,15,8,2,13,15,14,14,11,2,4
+612,25,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,28,19,22,15,4,2,9,15,11,16,15,2,3
+628,31,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,17,16,18,14,14,4,12,12,12,15,19,2,4
+630,40,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,19,22,23,13,8,3,9,11,5,11,5,1,3
+637,39,Male,2,Buddhism,Never married,Tertiary,Self-Employed,"RM4,000-RM6,999",Negeri Sembilan,South,24,11,16,12,12,4,9,11,10,12,15,2,4
+858,31,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Johor,South,30,16,16,19,8,3,14,13,9,16,15,2,4
+887,33,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,26,18,17,13,13,2,15,15,12,16,11,1,2
+1388,69,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,23,17,13,13,8,6,10,11,15,19,9,2,4
+1391,50,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,20,24,17,17,8,2,13,13,12,15,9,2,4
+1396,48,Male,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,15,17,17,14,4,2,11,11,9,6,5,2,4
+1406,35,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Penang,North,22,21,19,12,12,2,11,11,13,14,14,2,3
+1425,48,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Malacca,South,27,21,20,19,8,2,15,14,10,16,8,2,3
+1427,48,Male,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,24,20,19,17,11,2,11,14,12,13,8,2,4
+1438,43,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Negeri Sembilan,South,23,14,18,14,7,7,12,12,13,16,20,2,4
+1446,31,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,26,19,17,16,9,3,14,13,11,16,15,2,4
+1452,29,Male,2,Buddhism,Never married,Tertiary,Unemployed not looking for work,"RM7,000-RM9,999",Selangor,Central,22,21,19,14,16,2,11,14,9,9,7,2,5
+1469,34,Male,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,15,20,21,16,8,2,15,15,6,15,5,2,4
+1527,41,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,24,9,21,11,4,2,14,15,15,13,12,2,3
+1539,23,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,22,18,18,15,15,7,11,12,12,15,17,1,4
+1540,46,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Sarawak,East Malaysia,20,16,17,13,13,4,8,11,12,16,17,2,4
+1544,49,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,19,19,14,4,8,2,10,14,15,17,16,2,5
+1642,18,Female,2,Buddhism,Never married,Tertiary,Student,"RM4,000-RM6,999",Kedah,North,19,13,18,13,16,6,9,9,10,12,15,2,3
+1684,48,Female,2,Buddhism,Never married,Tertiary,Unemployed looking for work,"Above RM10,000",Malacca,South,16,19,14,10,14,2,11,12,10,16,10,1,4
+1704,49,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Penang,North,27,22,20,12,9,4,14,14,10,16,9,2,4
+1713,29,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,17,22,16,15,15,2,15,14,10,12,15,1,4
+1718,27,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,28,19,20,18,18,2,12,12,13,16,7,2,3
+1721,30,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Perak,North,24,19,21,17,7,2,12,13,8,9,13,1,3
+1735,31,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,27,16,26,13,14,4,10,9,12,12,11,2,3
+1739,33,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,25,19,23,15,12,3,12,13,12,14,11,2,4
+1746,33,Male,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,27,21,16,18,17,6,12,13,10,13,8,2,4
+1748,39,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,24,20,14,12,7,2,10,14,13,13,5,2,3
+1750,25,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,24,24,17,16,4,2,13,11,9,11,9,2,4
+1751,32,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,27,14,22,15,10,2,12,12,12,18,18,1,4
+1753,28,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,28,18,17,12,4,2,15,14,15,20,16,1,3
+1756,36,Male,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,16,14,17,10,8,2,14,15,9,12,10,1,4
+1760,26,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Perak,North,27,22,26,16,10,2,10,13,13,18,14,2,4
+1763,27,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,18,19,20,14,9,2,5,14,12,12,16,2,5
+1764,27,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,24,17,20,15,9,4,11,10,11,16,14,1,4
+1773,50,Female,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,21,20,22,12,13,5,13,13,14,14,12,1,3
+1774,38,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,22,15,17,14,9,3,12,13,12,11,10,1,4
+1781,34,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,25,25,17,10,9,2,11,11,12,20,24,2,4
+1783,32,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,24,15,26,15,5,2,11,11,11,10,8,1,5
+1786,30,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,27,19,23,16,11,4,11,10,10,13,13,1,4
+1787,26,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Negeri Sembilan,South,30,19,19,14,20,6,11,15,9,16,12,1,3
+1789,26,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,20,19,12,13,10,2,6,14,11,16,14,1,4
+1796,33,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,25,18,19,14,9,2,15,15,8,19,22,2,4
+1798,33,Male,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,23,21,23,10,13,2,13,15,15,16,11,1,4
+1799,29,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,22,21,18,13,6,2,9,12,10,16,12,1,4
+1802,39,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Selangor,Central,22,18,17,13,16,5,12,12,12,16,16,1,3
+1805,24,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Johor,South,25,15,18,15,4,2,15,15,11,20,12,1,4
+1806,24,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,21,19,19,15,8,2,12,12,12,12,15,2,4
+1814,32,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,23,21,17,12,4,2,15,15,8,16,15,1,4
+1828,31,Female,2,Buddhism,Married,Tertiary,Employed full time,"RM7,000-RM9,999",Kuala Lumpur,Central,27,17,23,18,12,3,9,12,4,11,9,2,2
+1830,29,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,28,13,19,6,4,2,12,13,13,16,17,1,4
+1832,29,Female,2,Buddhism,Never married,Tertiary,Self-Employed,"Less than RM1,000",Selangor,Central,23,19,15,10,8,4,12,12,10,15,15,2,3
+1855,28,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Kuala Lumpur,Central,15,20,11,11,11,2,12,14,14,13,13,2,4
+1862,26,Male,2,Buddhism,Never married,Tertiary,Student,"RM1,000-RM3,999",Pahang,East Coast,30,22,25,8,4,2,10,10,15,15,7,2,3
+1864,26,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,17,22,24,11,4,2,14,12,12,13,13,3,5
+1866,26,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,21,25,25,12,8,2,8,15,10,15,13,2,4
+1867,26,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Selangor,Central,28,22,14,13,11,3,14,15,13,16,9,2,3
+1868,24,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,27,24,23,17,10,2,15,15,12,16,17,2,3
+1869,25,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,21,24,19,19,12,2,12,13,11,13,13,2,3
+1873,26,Male,2,Buddhism,Never married,Tertiary,Employed full time,"RM1,000-RM3,999",Kuala Lumpur,Central,24,25,24,18,20,2,11,15,11,4,5,2,5
+1875,26,Female,2,Buddhism,Never married,Tertiary,Employed full time,"Above RM10,000",Selangor,Central,23,18,20,10,14,2,14,15,14,16,18,2,3
+1878,26,Male,2,Buddhism,Never married,Tertiary,Self-Employed,"RM4,000-RM6,999",Kuala Lumpur,Central,26,20,18,15,10,2,12,14,14,16,10,2,4
+1881,31,Female,2,Buddhism,Married,Tertiary,Employed full time,"Above RM10,000",Kuala Lumpur,Central,24,20,15,15,13,2,9,14,10,17,13,1,3
+1890,27,Male,2,Buddhism,Never married,Tertiary,Student,"Less than RM1,000",Selangor,Central,30,25,22,12,12,2,10,11,13,16,14,2,3
+1903,26,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Selangor,Central,25,20,18,14,7,2,10,11,11,12,16,2,4
+1462,26,Female,2,Buddhism,Never married,Tertiary,Employed full time,"RM4,000-RM6,999",Negeri Sembilan,South,25,15,19,17,8,2,11,14,10,10,7,2,3
